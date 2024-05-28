@@ -1,0 +1,79 @@
+<?php
+
+use Drupal\views\Views;
+use Drupal\Component\Serialization\Json;
+use Drupal\my_module\Controller\TestController;
+
+/**
+ * Implements hook_theme().
+ */
+function colven_theme() {
+  $theme['test_page'] = [
+    'template' => 'test-page',
+  ];
+
+  return $theme;
+}
+/**
+ * Implements hook_views_pre_render().
+ */
+function colven_views_pre_render(\Drupal\views\ViewExecutable $view) {
+  if ($view->id() == 'stores_json') { // Reemplaza 'stores_json' con el ID de tu vista
+    foreach ($view->result as $key => $row) {
+      $store_node = $row->_entity;
+      $product_terms = $store_node->get('field_products')->referencedEntities();
+      $products = [];
+      $brands = [];
+      foreach ($product_terms as $term) {
+        $brand = $term->get('field_brand')->value; // Ajusta 'field_brand' según tu campo de marca
+        $prod = new stdClass();
+        $prod->name = $term->label();
+        $prod->brand = $brand;
+        /*
+        $products[] = [
+          'name' => $term->label(),
+          'brand' => $brand,
+        ];
+        */
+        $products[] = $prod;
+        if (!in_array($brand, $brands)) {
+          $brands[] = $brand;
+        }
+      }
+      $view->result[$key]->_entity->products_json = $products;
+      $view->result[$key]->_entity->brands = $brands;
+    }
+  }
+}
+
+/**
+ * Implements hook_views_data_alter().
+ */
+function colven_views_data_alter(array &$data) {
+  // Añade un campo virtual para los productos en formato JSON
+  $data['node_field_data']['products_json'] = [
+    'title' => t('Products JSON'),
+    'help' => t('A field to output products in JSON format'),
+    'field' => [
+      'id' => 'products_json',
+    ],
+  ];
+
+  // Añade un campo virtual para las marcas en formato JSON
+  $data['node_field_data']['brands'] = [
+    'title' => t('Brands'),
+    'help' => t('A field to output brands in JSON format'),
+    'field' => [
+      'id' => 'brands',
+    ],
+  ];
+}
+
+/**
+ * Implements hook_preprocess_HOOK() for page templates.
+ */
+function colven_preprocess_page(&$variables) {
+  $variables['#attached']['drupalSettings']['colven'] = [
+    'modulePath' => drupal_get_path('module', 'colven'),
+  ];
+}

@@ -1,0 +1,23 @@
+map_script:
+  version: 1.x
+  js:
+    js/map_script.js: {}
+  dependencies:
+    - core/jquery
+
+leaflet:
+  version: 1.x
+  header: true
+  js:
+    https://unpkg.com/leaflet@1.9.4/dist/leaflet.js:
+      type: external
+      attributes: { async: true }
+      preprocess: false
+      minified: true
+  css:
+    theme:
+      https://unpkg.com/leaflet@1.9.4/dist/leaflet.css:
+        preprocess: false
+        type: external
+        minified: true
+        attributes: { async: true }

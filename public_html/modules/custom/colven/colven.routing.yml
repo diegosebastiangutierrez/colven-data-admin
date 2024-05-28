@@ -1,0 +1,7 @@
+colven.test_page:
+  path: '/test-page'
+  defaults:
+    _controller: '\Drupal\colven\Controller\TestController::testPage'
+    _title: 'Map Test with filters'
+  requirements:
+    _permission: 'access content'

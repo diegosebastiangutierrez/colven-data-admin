@@ -1,0 +1,3832 @@
+[
+  {
+    "name": "E.A. Lazaro Romera",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.693139, -1.64886",
+    "products": "viesacamion, vigiacamion",
+    "email": "voltioslazaro@hotmail.com",
+    "phone": "968 471855",
+    "address": "Ctra de Murcia, Dip.Tercia s/n"
+  },
+  {
+    "name": "Telleres vidalfre",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "42.912503, -8.513809",
+    "products": "viesacamion",
+    "email": "vidal@talleresvidalfre.com",
+    "phone": "981 572218",
+    "address": "C.del Transporte C/ B Nave 56-58A   P.I."
+  },
+  {
+    "name": "Caravanas 1000 ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.584051, 2.023968",
+    "products": "viesaautocaravana",
+    "email": "ventas@caravanas1000.com",
+    "phone": "93 7342 246",
+    "address": " cl- provenza 226"
+  },
+  {
+    "name": "Veinsur Almería ",
+    "country": "españa",
+    "state": "almeria",
+    "location": "36.872863, -2.442469",
+    "products": "viesacamion",
+    "email": "veinsur.recambios.almeria@jcarrion.es",
+    "phone": "950 212000",
+    "address": "Cr/A1000,32"
+  },
+  {
+    "name": "Veinsur Monternet-Barcelona",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.565989, 2.273167",
+    "products": "viesacamion",
+    "email": "veinsur.montornes.recepcion@veinsur.es",
+    "phone": "93 8604600",
+    "address": "Poligono Industrial El Congost, Camí Ral, s/n, 08170"
+  },
+  {
+    "name": "Veinsur Malaga",
+    "country": "españa",
+    "state": "malaga",
+    "location": "36.712135, -4.518723",
+    "products": "viesacamion",
+    "email": "veinsur.compras@veinsur.es",
+    "phone": "952 243866",
+    "address": "C/ Prokofiev 1,3 y 5"
+  },
+  {
+    "name": "Valcaravan",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.432125, -0.360097",
+    "products": "viesaautocaravana",
+    "email": "valcaravan@msn.com",
+    "phone": "96 3960002",
+    "address": "Camino de Ribas 23"
+  },
+  {
+    "name": "Talleres Tudela ",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "38.635702, -3.472362",
+    "products": "viesacamion",
+    "email": "tudelas.talleres@renault-trucks.net",
+    "phone": "926 342274",
+    "address": "Ctra. Madrid-Cadiz Km. 217"
+  },
+  {
+    "name": "Vaporizados Palencia ",
+    "country": "españa",
+    "state": "palencia",
+    "location": "41.939949, -4.49978",
+    "products": "vigiacamion",
+    "email": "tralonso@tralonso.es",
+    "phone": "979 770378",
+    "address": "Avda. Comunidad Europea, P-89"
+  },
+  {
+    "name": "Tot Frens ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.591507, 1.626803",
+    "products": "vigiacamion",
+    "email": "totfrens@totfrens.com",
+    "phone": "93 8053969",
+    "address": "Av. Europa 6 nave 6"
+  },
+  {
+    "name": "Tomelloso Cisternas",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.161919, -3.03642",
+    "products": "vigiacamion",
+    "email": "tomcisa@tomcisa.com",
+    "phone": "926 514005",
+    "address": "CR/Argamasilla Alba, Km.,2"
+  },
+  {
+    "name": "Auto Electricidad Tobar",
+    "country": "españa",
+    "state": "burgos",
+    "location": "42.366778, -3.61657",
+    "products": "viesacamion",
+    "email": "tobarburgos@gmail.com",
+    "phone": "947 485577",
+    "address": "Ctra. Madrid-Irun km. 245 C/ Vitoria 286 nave 16"
+  },
+  {
+    "name": "Tierra Caravanas ",
+    "country": "españa",
+    "state": "bizkaia",
+    "location": "43.302273, -2.943694",
+    "products": "viesaautocaravana",
+    "email": "tierracaravanas@gmail.com",
+    "phone": "94 4532341",
+    "address": "c/Zamarripa Bidea 1"
+  },
+  {
+    "name": "Tafym",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.40094, -3.136083",
+    "products": "vigiacamion",
+    "email": "tecnico@tafymsa.com",
+    "phone": "926 561391",
+    "address": "Avda. Castilla La Mancha, 1"
+  },
+  {
+    "name": "Electromecanica La Loma",
+    "country": "españa",
+    "state": "jaen",
+    "location": "38.021397, -3.365408",
+    "products": "viesacamion",
+    "email": "tecnico@emlaloma.es",
+    "phone": "953 750149",
+    "address": "c/ Prol. Avenida Cristobal Cantero s/nº"
+  },
+  {
+    "name": "Climatización  Conde Bueno Sánchez ",
+    "country": "españa",
+    "state": "toledo",
+    "location": "40.096073, -3.86636",
+    "products": "viesacamion",
+    "email": "tecnico@csclimatizacion.com",
+    "phone": "925 536606",
+    "address": "C/ Alfonso VI nº 3 Parcela 48"
+  },
+  {
+    "name": "Tallunión ",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "42.902965, -8.521229",
+    "products": "viesacamion",
+    "email": "tallunion@gmail.com",
+    "phone": "981 589711",
+    "address": "Ctra. de Coruña a Santiago km. 59"
+  },
+  {
+    "name": "Taller Electrico Maroto",
+    "country": "españa",
+    "state": "zamora",
+    "location": "41.996791, -5.657218",
+    "products": "viesacamion",
+    "email": "tallermaroto@gmail.com",
+    "phone": "980 636571",
+    "address": "Avda. Federico Silva 213"
+  },
+  {
+    "name": "Reparación de Automoviles Hurtado ",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.990049, -1.107947",
+    "products": "viesacamion",
+    "email": "tallerhurtado@hotmail.com",
+    "phone": "968 300605",
+    "address": "c/ La Citrica, 6"
+  },
+  {
+    "name": "Talleres y Carrocerias Hermanos Torres,",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.380949, -0.402905",
+    "products": "vigiacamion",
+    "email": "talleresycarroceriashnostorres@gmail.com ",
+    "phone": "652 677 322",
+    "address": "CM/Vereda sur,20"
+  },
+  {
+    "name": "Man Truck & Bus Service Talleres Telro",
+    "country": "españa",
+    "state": "teruel",
+    "location": "41.020606, -0.091883",
+    "products": "viesacamion",
+    "email": "tallerestelro@movistar.es",
+    "phone": "978 830825",
+    "address": "P.I. las horcas parcela 41-10"
+  },
+  {
+    "name": "Talleres  Felix ",
+    "country": "españa",
+    "state": "navarra",
+    "location": "42.341731, -1.93978",
+    "products": "viesacamion",
+    "email": "talleresfelixsl@yahoo.es",
+    "phone": "948 670526",
+    "address": "Polig. Industrial Parcela 25"
+  },
+  {
+    "name": "Talleres El Portazgo ",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.67366, -0.949541",
+    "products": "viesacamion",
+    "email": "elportazgo@bosch-bcs.com ",
+    "phone": "976 347900",
+    "address": "Ctra Logroño Km.6 Nave 2"
+  },
+  {
+    "name": "Talleres Marin ",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "38.6319, -3.468161",
+    "products": "viesacamion",
+    "email": "talleres.marin@rediveco.com",
+    "phone": "926 342500",
+    "address": "Autovía Madrid-Cadiz Km.217-  500,"
+  },
+  {
+    "name": "Talleres  Juan Gomez Moraga ",
+    "country": "españa",
+    "state": "albacete",
+    "location": "39.01755, -1.856858",
+    "products": "viesa,vigiacamion, viesacamion, vigiacamion",
+    "email": "taller@tjuangomezmoraga.es",
+    "phone": "967 193182",
+    "address": "Ctra Mahora Km. 2"
+  },
+  {
+    "name": "Man Truck & Bus Center Cial V.I. TAR",
+    "country": "españa",
+    "state": "orense",
+    "location": "42.278492, -7.837214",
+    "products": "viesacamion",
+    "email": "taller@tarourense.es",
+    "phone": "988 383789",
+    "address": "CR NAC, 525 Km 228,5"
+  },
+  {
+    "name": "Rumbo Norte Taller Caravaning",
+    "country": "españa",
+    "state": "alava",
+    "location": "42.864831, -2.707315",
+    "products": "viesaautocaravana",
+    "email": "taller@rumbonortecaravaning.com",
+    "phone": "945 212360",
+    "address": "CL/San Miguel de Atxa,21 P. I. Aligobeo"
+  },
+  {
+    "name": "Man Truck & Bus Center Cial V.I. de Galicia",
+    "country": "españa",
+    "state": "pontevedra",
+    "location": "42.114726, -8.620079",
+    "products": "viesacamion",
+    "email": "taller@covigal.com",
+    "phone": "986342050",
+    "address": "Polígono Industrial A Granxa, Parc. 181-182-183"
+  },
+  {
+    "name": "Autocaravanas  Edmonsa",
+    "country": "españa",
+    "state": "santa-cruz-de-tenerife",
+    "location": "28.482628, -16.329299",
+    "products": "viesaautocaravana",
+    "email": "taller@caravanasedmonsa.com",
+    "phone": "922 629124",
+    "address": "Complejo Marcerol, C/ marcerol 15 38203"
+  },
+  {
+    "name": "Drop Energy",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.264876, -3.702376",
+    "products": "vigiacamion",
+    "email": "taller@candispe.com",
+    "phone": "91 6918270",
+    "address": "CL/Coto Doñana,,24"
+  },
+  {
+    "name": "Auto Balaguer",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.787164, 0.82665",
+    "products": "viesacamion",
+    "email": "taller@autobalaguer.com",
+    "phone": "973 450107",
+    "address": "C/ Carretera, c 148A nº 2"
+  },
+  {
+    "name": "Talcamión ",
+    "country": "españa",
+    "state": "toledo",
+    "location": "40.058927, -3.840877",
+    "products": "viesacamion",
+    "email": "talcamionnumancia@talauto.com",
+    "phone": "925 552050",
+    "address": "Ctra. CM. 4004 Km. 28,900"
+  },
+  {
+    "name": "Tac Caravaning ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.361454, 1.768835",
+    "products": "viesaautocaravana",
+    "email": "tac@taccaravaning.com",
+    "phone": "93 8970917",
+    "address": "Ctra. de Barcelona nº 152 (N.340 KM.1218"
+  },
+  {
+    "name": "talleres XXL Talleres  Becar",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.283884, -8.425117",
+    "products": "viesacamion",
+    "email": "t.becar@gmail.com",
+    "phone": "981 255249",
+    "address": "Torres Quevedo 14  P.I. La Grela"
+  },
+  {
+    "name": "Talleres Sebastián e Hijos",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.619573, -0.956963",
+    "products": "viesacamion",
+    "email": "sebastianehijos@sebastianehijos.com",
+    "phone": "968 529625",
+    "address": "c/Bucarest  23 PI Cabezo Beaza  - Apdo."
+  },
+  {
+    "name": "V.I. Noribérica ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.258089, -3.689311",
+    "products": "viesacamion",
+    "email": "scania@noriberica.net",
+    "phone": "91 6620051",
+    "address": "C/ Arroyo de los Prados 1 P.I.Las Arenas"
+  },
+  {
+    "name": "Saladar Center",
+    "country": "españa",
+    "state": "guadalajara",
+    "location": "40.614805, -3.208522",
+    "products": "viesacamion",
+    "email": "saladarcenter@gmail.com",
+    "phone": "659 454563",
+    "address": "c/ Francisco Medina y Mendoza, Parc. 10"
+  },
+  {
+    "name": "Man Barcelona Norte ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.563128, 2.236282",
+    "products": "viesacamion",
+    "email": "roger.llobell@man.eu",
+    "phone": "93 5738750",
+    "address": "Pº fluvial 30  Pol Zeta "
+  },
+  {
+    "name": "R.V. Aplicaciones ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.950042, 2.273036",
+    "products": "viesaautocaravana",
+    "email": "rickyvea@gmail.com",
+    "phone": "620566852/93 6889024",
+    "address": "c/ Lleida nº 35 C Polig. Activ. Economicas"
+  },
+  {
+    "name": "Talleres Reyfe",
+    "country": "españa",
+    "state": "albacete",
+    "location": "39.017515, -1.892397",
+    "products": "vigiacamion",
+    "email": "reyfe2005@yahoo.es",
+    "phone": "967 215773",
+    "address": "Apartado Correos 832/  Avenida cero, 4 - 13, Albacete, 02007 , Albacete "
+  },
+  {
+    "name": "Autocaravanas be happy ",
+    "country": "españa",
+    "state": "cadiz",
+    "location": "36.185536, -5.430372",
+    "products": "viesaautocaravana",
+    "email": "reservas@autocaravansbehappy.com",
+    "phone": "685 113 174",
+    "address": "C/ Oceano Atlantico, T3.2  Nave nº 9"
+  },
+  {
+    "name": "Scania Cica Sevilla",
+    "country": "españa",
+    "state": "sevilla",
+    "location": "37.378373, -5.892305",
+    "products": "viesacamion",
+    "email": "repuestos1.sevilla@grupocica.com",
+    "phone": "955 634340",
+    "address": "Ctra. Sevilla-Malaga km. 4,3   Parque Empresarial La Red, Calle de la Red Dos, nº 42, 41500 "
+  },
+  {
+    "name": "Talleres R. Elimarke ",
+    "country": "españa",
+    "state": "pontevedra",
+    "location": "42.136237, -8.623688",
+    "products": "viesa,vigiacamion, viesacamion, vigiacamion",
+    "email": "repuestos@elimarke.es",
+    "phone": "986 343905",
+    "address": "Pol. Ind. As Gandaras, Pârc. 1"
+  },
+  {
+    "name": "Talleres Camarina ",
+    "country": "españa",
+    "state": "huelva",
+    "location": "37.303358, -6.887983",
+    "products": "viesacamion",
+    "email": "repuestos@camarina.es",
+    "phone": "959 232408",
+    "address": "Ctra. Comarcal H101/  Paque Huelva empresarial, P. 1. 5, 21007 "
+  },
+  {
+    "name": "Garatge Plana ",
+    "country": "españa",
+    "state": "girona",
+    "location": "42.232489, 2.961925",
+    "products": "vigiacamion",
+    "email": "recv.gplana@mercedes-benz.es",
+    "phone": "972 527444",
+    "address": "P.I. Pont del Princep  C/ Ponent 22"
+  },
+  {
+    "name": "Man Truck & Bus Service Auto-Handia ",
+    "country": "españa",
+    "state": "jaen",
+    "location": "38.149425, -3.718709",
+    "products": "viesacamion",
+    "email": "recepcionjaen@autohandia.com",
+    "phone": "953 672081",
+    "address": "P.I. Guadiel c/ Linares Parc, 115-116"
+  },
+  {
+    "name": "Autocaravanas Norte-Sur",
+    "country": "españa",
+    "state": "malaga",
+    "location": "37.029892, -4.533947",
+    "products": "viesaautocaravana",
+    "email": "antequera115@autocaravanasnorte.com",
+    "phone": "951 137413",
+    "address": "C/San Cristobal,1 Pol. Ind. de Antequera"
+  },
+  {
+    "name": "ManTruck & Bus Service Auto-Handia ",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.339805, -1.760988",
+    "products": "viesacamion",
+    "email": "recepcion@manirun.com",
+    "phone": "943 619910",
+    "address": "Antxotxipi Kalea, 5"
+  },
+  {
+    "name": "Jaume Sole Refrigeracio ",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.606458, 0.882428",
+    "products": "viesa,vigiacamion, viesacamion, vigiacamion",
+    "email": "recanvis.garanties@jaume-sole.com",
+    "phone": "973 601868",
+    "address": "Av. Pla D´Urgell Nº 17"
+  },
+  {
+    "name": "Volvo Truck Center",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.170251, -3.667772",
+    "products": "viesacamion",
+    "email": "recambiosvaldemoro@volvo.com",
+    "phone": "91 8098700",
+    "address": "P.I. Rompecubas  c/ Narciso Monturiol 14"
+  },
+  {
+    "name": "Serviman Murcia",
+    "country": "españa",
+    "state": "murcia",
+    "location": "38.100782, -1.233386",
+    "products": "viesacamion",
+    "email": "recambios@serviman-murcia.com",
+    "phone": "968 687567",
+    "address": "Autovia 30 Albacete Madrid Km 124"
+  },
+  {
+    "name": "Mabesoa ",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.317371, -8.293641",
+    "products": "viesacamion",
+    "email": "recambios1@mabesoa.com",
+    "phone": "981 648311",
+    "address": "Ctra. N VI km. 582  Soñeiro"
+  },
+  {
+    "name": "Talleres Zoilo",
+    "country": "españa",
+    "state": "badajoz",
+    "location": "38.699101, -6.407434",
+    "products": "viesacamion",
+    "email": "recambios@zoilosl.es/ com",
+    "phone": "924 665388",
+    "address": "C/industria- Parcela 2 Poligono Industri"
+  },
+  {
+    "name": "Talleres  y Recambios Mago",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.619967, -6.602566",
+    "products": "viesacamion",
+    "email": "recambios@tmago.com",
+    "phone": "987 453352",
+    "address": "P.I. de Cabañas"
+  },
+  {
+    "name": "Talleres  Rocal ",
+    "country": "españa",
+    "state": "orense",
+    "location": "42.42387, -7.887387",
+    "products": "viesacamion",
+    "email": "recambios@talleresrocal.es",
+    "phone": "988 363018",
+    "address": "Parq. Empresarial Vilamarin Parc. 25-26-"
+  },
+  {
+    "name": "TalleresPedro y Manolo ",
+    "country": "españa",
+    "state": "murcia",
+    "location": "38.08368, -1.267211",
+    "products": "viesacamion",
+    "email": "recambios@tallerespedroymanolo.com",
+    "phone": "968 694519",
+    "address": "P.I. Ceutí c/ Río Segura s/n"
+  },
+  {
+    "name": "Talleres Daniel Garcia Grande ",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.162218, -3.037234",
+    "products": "viesacamion",
+    "email": "recambios@talleres-daniel.com",
+    "phone": "926 514486",
+    "address": "Ctra. Argamasilla km. 2"
+  },
+  {
+    "name": "T. Castillo Frases",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.633991, -0.610861",
+    "products": "viesa,vigiacamion, viesacamion, vigiacamion",
+    "email": "recambios@castillofrases.com",
+    "phone": "96 2791022",
+    "address": "Ctra Valencia Ademuz Km.26.200"
+  },
+  {
+    "name": "Vehiculos Industriales de Oviedo",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.420124, -5.814726",
+    "products": "viesacamion",
+    "email": "recambios@asturman.com",
+    "phone": "985 732257",
+    "address": "C/ Peña Salon, 32   P.I. Silvota"
+  },
+  {
+    "name": "Algar Motor ",
+    "country": "españa",
+    "state": "alicante",
+    "location": "38.344957, -0.550276",
+    "products": "viesacamion",
+    "email": "recambios.algar@algarmotor.com",
+    "phone": "96 5110284",
+    "address": "C/ Nieve 2"
+  },
+  {
+    "name": "Scaitt ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.466102, 1.947678",
+    "products": "viesacamion",
+    "email": "rcastillo@scaitt.com",
+    "phone": "93 7737100",
+    "address": "Avda. del Congost 9 P.I. El Congost"
+  },
+  {
+    "name": "Taller R4",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.480258, -0.559041",
+    "products": "viesacamion",
+    "email": "r4.ricardo.r4@hotmail.com",
+    "phone": "961 64 26 93",
+    "address": "Av. dels Fusters, 22B, 46190"
+  },
+  {
+    "name": "Truckland",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.492536, -3.386229",
+    "products": "viesacamion",
+    "email": "r.gomez@truckland.es",
+    "phone": "91 7375605",
+    "address": "c/ Louis Pasteur 3"
+  },
+  {
+    "name": "Aumavega",
+    "country": "españa",
+    "state": "alicante",
+    "location": "38.110317, -0.929877",
+    "products": "vigiacamion",
+    "email": "r.davi@aumavega.com",
+    "phone": "96 5030887",
+    "address": "Calle 7, P.I. Puente Alto"
+  },
+  {
+    "name": "Putxeta Camper",
+    "country": "españa",
+    "state": "bizkaia",
+    "location": "43.316747, -3.091471",
+    "products": "viesaautocaravana",
+    "email": "putxetacamper@gmail.com",
+    "phone": "625 346 596",
+    "address": "Avenida putxeta, 9 48500,"
+  },
+  {
+    "name": "Expocaravanas Tolosa ",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.096102, -2.115348",
+    "products": "viesaautocaravana",
+    "email": "postventa@caravanastolosa.com",
+    "phone": "943 655085",
+    "address": "Pol. Ind Aldaba s/nº"
+  },
+  {
+    "name": "Auto Suministres Motor ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.956682, 2.246057",
+    "products": "viesaautocaravana",
+    "email": "postventa@autosuministros.com",
+    "phone": "93 8832927",
+    "address": "C/ del Blat s/n P.I. Ronda Vic Norte"
+  },
+  {
+    "name": "Pereira Electricidad Automóvil",
+    "country": "españa",
+    "state": "lugo",
+    "location": "43.044355, -7.561965",
+    "products": "viesacamion",
+    "email": "pereiraelectricidad@hotmail.com",
+    "phone": "686 928 709",
+    "address": "c/ Rua da Industria Parc. 99A"
+  },
+  {
+    "name": "Peñarrubia y Lara",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.275126, -2.783085",
+    "products": "viesacamion",
+    "email": "penarrubiaylara@gmail.com",
+    "phone": "926 530931",
+    "address": "C/ Francia, Parc. 29  P.I. El Llano"
+  },
+  {
+    "name": "Beatrucks",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.790746, -5.628559",
+    "products": "viesacamion",
+    "email": "pedidosadolfo@gmail.com",
+    "phone": "615 165 909",
+    "address": "Pol. Ind. De la Robla P 39   La Robla"
+  },
+  {
+    "name": "Global Thermo ",
+    "country": "españa",
+    "state": "pontevedra",
+    "location": "42.180636, -8.613834",
+    "products": "viesacamion",
+    "email": "oscar@globalthermo.es",
+    "phone": "986 344848",
+    "address": "Ctra. Porrillo Redondela km. 1,6 nave 2"
+  },
+  {
+    "name": "Veinsur Sevilla",
+    "country": "españa",
+    "state": "sevilla",
+    "location": "37.376498, -5.8867",
+    "products": "viesacamion",
+    "email": "oscar.moguer@veinsur.es",
+    "phone": "955 632050",
+    "address": "Autovia-Malaga Km. 5"
+  },
+  {
+    "name": "Man Valencia ",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.47337, -0.506308",
+    "products": "viesacamion",
+    "email": "oscar.garciasegovia@man.eu",
+    "phone": "96 1597340",
+    "address": "Ctra  NIII Madrid-Valencia, Avinguda Comarques del País Valencia, 108, 46930 "
+  },
+  {
+    "name": "MAN Truck & Bus Center Novo Camión & Bus",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.320316, -8.3153",
+    "products": "viesacamion",
+    "email": "manuelmb.novo@perezrumbao.com",
+    "phone": "981 610308",
+    "address": "Crta.Nacional VI Km 585"
+  },
+  {
+    "name": "Man  Almeria ",
+    "country": "españa",
+    "state": "almeria",
+    "location": "36.792774, -2.704273",
+    "products": "viesacamion",
+    "email": "miguelangel.soriano@man.eu",
+    "phone": "950 603510",
+    "address": "P.I. San Nicolas, Avenida 2005, 21"
+  },
+  {
+    "name": "Veinsur Guarroman",
+    "country": "españa",
+    "state": "jaen",
+    "location": "38.147648, -3.721535",
+    "products": "viesacamion",
+    "email": "miguel.arance@veinsur.es",
+    "phone": "953 678200",
+    "address": "Ctra, Nacional IV KM 288/Polígono Industrial Guadiel, Avenida Linares, 17 B, 23210 "
+  },
+  {
+    "name": "Renault Truck Center ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.320087, -3.691271",
+    "products": "viesacamion",
+    "email": "alfonso.marcos@renault-trucks.net",
+    "phone": " 913 47 09 16",
+    "address": "C/ Estrategia nº 2  P.I. Los Olivos"
+  },
+  {
+    "name": "Talleres Mariano Herbera ",
+    "country": "españa",
+    "state": "huesca",
+    "location": "41.921394, 0.187618",
+    "products": "viesacamion",
+    "email": "marco@scaniaherbera.es",
+    "phone": "974 404812",
+    "address": "Pol. Paules Parc. 29"
+  },
+  {
+    "name": "Grupo Gutierrez Pastor",
+    "country": "españa",
+    "state": "malaga",
+    "location": "36.83569, -4.128761",
+    "products": "viesacamion",
+    "email": "manuel.renault.trucks@hotmail.com",
+    "phone": "952 037510",
+    "address": "Ctra. La Viñuela Cruce de Canillas Km 39"
+  },
+  {
+    "name": "Majuma Motor ",
+    "country": "españa",
+    "state": "granada",
+    "location": "36.726262, -3.542159",
+    "products": "viesacamion, vigiacamion",
+    "email": "manolo.vilchez@majumamotor.es",
+    "phone": "958 822810",
+    "address": "Camino Patria s/n"
+  },
+  {
+    "name": "Taller MAN-Talleres Mudejar",
+    "country": "españa",
+    "state": "teruel",
+    "location": "40.36315, -1.15175",
+    "products": "viesacamion",
+    "email": "manmudejar@gmail.com",
+    "phone": "978 609621",
+    "address": "P.I. La Paaz C/ Milan Parcela 140"
+  },
+  {
+    "name": "Man Granada  ",
+    "country": "españa",
+    "state": "granada",
+    "location": "37.192191, -3.732589",
+    "products": "viesacamion",
+    "email": "mangranada@man.eu",
+    "phone": "958 491178",
+    "address": "P.I. 12 DE Octubre C/ Garrido Atienza 22"
+  },
+  {
+    "name": "Mancha luz ",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.395281, -3.225029",
+    "products": "viesacamion",
+    "email": "manchaluz@arrakis.es",
+    "phone": "926 542962",
+    "address": "Avda. de la Tecnología ,19  P.I.Emilio C"
+  },
+  {
+    "name": "Man Truck & Bus Service Automoción Rubio Rodrigo Talavera",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.953534, -4.934609",
+    "products": "viesacamion",
+    "email": "recambios2@rubiorodrigo.es",
+    "phone": "925 851085",
+    "address": "Autovia de Extremadura Km 126, Calle Dr. Fleming, 365, 45614 "
+  },
+  {
+    "name": "ManTruck & Bus Center Automoción Rubio Rodrigo Manzanares",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.015724, -3.370083",
+    "products": "viesacamion",
+    "email": "man@rubiorodrigo.es",
+    "phone": "926 611032",
+    "address": "c/ industrial XII 76 A "
+  },
+  {
+    "name": "Taller Maeso",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.437144, -0.486839",
+    "products": "viesacamion",
+    "email": "maeso@maeso.es/maesovdoraquel@gmail.com",
+    "phone": "96 1293510",
+    "address": "C/Perelló P.I. Masía del Juez 68"
+  },
+  {
+    "name": "Lujada 2005 ",
+    "country": "españa",
+    "state": "granada",
+    "location": "37.235847, -3.81887",
+    "products": "viesaautocaravana",
+    "email": "lujada2005sl@hotmail.com",
+    "phone": "958 454529",
+    "address": "c/Camino de Illora s/n- local nº 2."
+  },
+  {
+    "name": "Autoclima Castillo Fernandez ",
+    "country": "españa",
+    "state": "la-rioja",
+    "location": "42.426567, -2.723597",
+    "products": "viesacamion",
+    "email": "luis@autoclimacastillo.com",
+    "phone": "941 363688",
+    "address": "P.I. La Pedregosa c/Las Viñas 48"
+  },
+  {
+    "name": "Automotor Service Truck and Bus",
+    "country": "españa",
+    "state": "cuenca",
+    "location": "39.530569, -1.561553",
+    "products": "viesacamion",
+    "email": "info@autocaravanasburgos.com",
+    "phone": "962 163138",
+    "address": "P.I. Fuente Los Arrieros, Parc. 5"
+  },
+  {
+    "name": "Lálba ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.624799, 2.324804",
+    "products": "viesaautocaravana",
+    "email": "lalba@lalba.net",
+    "phone": "93 8496060",
+    "address": "Ctra. Granolleres a Cardedeu Km. 3,5"
+  },
+  {
+    "name": "Man  Cordoba ",
+    "country": "españa",
+    "state": "cordoba",
+    "location": "37.877986, -4.757219",
+    "products": "viesacamion",
+    "email": "joseluis.ruiz@man.eu",
+    "phone": "957 267008",
+    "address": "camino de la barca s/n 1 P.I. Huerta de la Cruz"
+  },
+  {
+    "name": "Man Truck & Bus iberia s.a.u",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.43367, -3.539537",
+    "products": "viesacamion",
+    "email": "joseluis.ruiz@man.eu",
+    "phone": "91 6602000",
+    "address": "Av de la cañada nº 52"
+  },
+  {
+    "name": "Serviman Murcia ",
+    "country": "españa",
+    "state": "murcia",
+    "location": "38.100773, -1.233351",
+    "products": "viesacamion",
+    "email": "josefrancisco.martinez@serviman-murcia.com",
+    "phone": "968 687567",
+    "address": "autovia 30 Albacete Madrid Km 124, calle Madrid "
+  },
+  {
+    "name": "Caravanas Cruz ",
+    "country": "españa",
+    "state": "alicante",
+    "location": "38.250644, -0.69738",
+    "products": "viesaautocaravana",
+    "email": "joseantonio@caravanascruz.es",
+    "phone": "96 5457819",
+    "address": "Ctra. Dolores Km 1"
+  },
+  {
+    "name": "Man Sevilla ",
+    "country": "españa",
+    "state": "sevilla",
+    "location": "37.350133, -5.8382",
+    "products": "viesacamion",
+    "email": "Joseantonio.soto@man.eu",
+    "phone": "955 615566",
+    "address": "Ctra Sevilla-Malaga km 10"
+  },
+  {
+    "name": "Talleres Lopez y Vazquez",
+    "country": "españa",
+    "state": "lugo",
+    "location": "43.031384, -7.535022",
+    "products": "viesacamion",
+    "email": "jose@lopezyvazquez.es",
+    "phone": "982 303030",
+    "address": "Pol. Ind. la Campiña, 6"
+  },
+  {
+    "name": "Veinsur Zona Franca",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.347051, 2.145618",
+    "products": "viesacamion",
+    "email": "jordi.armengol@veinsur.es",
+    "phone": "93 2234095",
+    "address": "P.I. Zona Franca Sector A C/60 Nº 22-30"
+  },
+  {
+    "name": "Man Truck & Bus Center Lizaga",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.656379, -0.77866",
+    "products": "viesacamion",
+    "email": "joaquin.morera@lizaga.com",
+    "phone": "691 036 561",
+    "address": "C/ F Este 48   P.I.Malpica"
+  },
+  {
+    "name": "JM caravaning",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.589007, 1.623727",
+    "products": "viesaautocaravana",
+    "email": "jm@jmcaravaning.com/ ",
+    "phone": "93 8066306",
+    "address": "Carrer d´alemanya 11 08700"
+  },
+  {
+    "name": "Autoprima ",
+    "country": "españa",
+    "state": "cuenca",
+    "location": "39.563281, -1.92213",
+    "products": "vigiacamion",
+    "email": "jlgabaldon@grupoautoprima.es",
+    "phone": "969 332260",
+    "address": "Ctra. Madrid-Valencia s/n"
+  },
+  {
+    "name": "Granalu transformaciones ",
+    "country": "españa",
+    "state": "segovia",
+    "location": "41.335627, -4.30398",
+    "products": "vigiacamion",
+    "email": "jfuentes@granalu.com",
+    "phone": "921 160070",
+    "address": "Ctra. CL-601 KM 58-  cp 40297"
+  },
+  {
+    "name": "M3 Caravaning",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.352182, 1.730758",
+    "products": "viesaautocaravana",
+    "email": "jcnp@m3caravaning.com",
+    "phone": "93 8182500",
+    "address": "Ctra N340 Km 1214.4"
+  },
+  {
+    "name": "Caravaning K2",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.495416, -3.38585",
+    "products": "viesaautocaravana",
+    "email": "javiersanchez@caravaningk2.es",
+    "phone": "91 8884312",
+    "address": "Avda . de Daganzo, 21"
+  },
+  {
+    "name": "Man-Malaga ",
+    "country": "españa",
+    "state": "malaga",
+    "location": "36.714535, -4.512934",
+    "products": "viesacamion",
+    "email": "javier.boure@man.eu",
+    "phone": "952 178080",
+    "address": "C.T.M Autovia Campanillas A-357 Calle Franz Liszt, S/N, 29590"
+  },
+  {
+    "name": "Carrocerias Procar",
+    "country": "españa",
+    "state": "la-rioja",
+    "location": "42.420492, -2.259379",
+    "products": "viesacamion",
+    "email": "javi.procar@hotmail.com",
+    "phone": "678 418 016",
+    "address": "C/ Rios Cidacos 203    P.I. El Sequero"
+  },
+  {
+    "name": "Veinsur Girona",
+    "country": "españa",
+    "state": "girona",
+    "location": "41.970651, 2.775613",
+    "products": "viesacamion",
+    "email": "jan.schreuder@veinsur.es",
+    "phone": "972 233861",
+    "address": "c/ vilablarerix 1 P.I. Torre mirona"
+  },
+  {
+    "name": "Caravanas Itsaso",
+    "country": "españa",
+    "state": "navarra",
+    "location": "42.769473, -1.659149",
+    "products": "viesaautocaravana",
+    "email": "itsaso@caravanasitsaso.com",
+    "phone": "948 331574",
+    "address": "P.I. Comarca 2 C/ A nave 7"
+  },
+  {
+    "name": "Caravanas Itsas Mendi",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.218702, -2.026017",
+    "products": "viesaautocaravana",
+    "email": "itsasmendi@itsasmendi.com",
+    "phone": "943 593290",
+    "address": "Barrio Sorabilla, S/N, 20140 Andoain"
+  },
+  {
+    "name": "Autocaravanas Burgos",
+    "country": "españa",
+    "state": "burgos",
+    "location": "42.305764, -3.730802",
+    "products": "viesaautocaravana",
+    "email": "infop@acbur.com",
+    "phone": "947 295987",
+    "address": "Ctra. Vieja de Roa, s/nº"
+  },
+  {
+    "name": "Yakart Autocaravanas",
+    "country": "españa",
+    "state": "lugo",
+    "location": "43.020968, -7.563438",
+    "products": "viesaautocaravana",
+    "email": "info@yakartautocaravanas.com",
+    "phone": "982 283051",
+    "address": "Ctra. A Coruña N. VI 202  cruce de ramil"
+  },
+  {
+    "name": "Todo Autocaravanas Ponferrada",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.56615, -6.607457",
+    "products": "viesaautocaravana",
+    "email": "info@todoautocaravanas.com",
+    "phone": "606 084247",
+    "address": "Calle Bellavista, 23, 24490 Ponferrada, León"
+  },
+  {
+    "name": "Tecnicaravan",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.190613, -3.777363",
+    "products": "viesaautocaravana",
+    "email": "info@tecnicaravan.com",
+    "phone": "91 3703818",
+    "address": "Calle Santo Domingo, 8, 28806 Alcalá de Henares, Madrid"
+  },
+  {
+    "name": "Man Truck & Bus Service Talleres Ramírez e Hijos",
+    "country": "españa",
+    "state": "malaga",
+    "location": "37.003908, -5.027729",
+    "products": "viesacamion",
+    "email": "info@talleresramirez.com",
+    "phone": "95 2182056",
+    "address": "Av. el Saucejo, 127"
+  },
+  {
+    "name": "Talleres Hnos. Parada ",
+    "country": "españa",
+    "state": "albacete",
+    "location": "38.93668, -1.749638",
+    "products": "vigiacamion",
+    "email": "info@tallereshermanosparada.com",
+    "phone": "967 260201",
+    "address": "c/ Toledo s/n P.I. Camporroso"
+  },
+  {
+    "name": "Electromecanicos Casa ",
+    "country": "españa",
+    "state": "zamora",
+    "location": "41.991678, -5.644271",
+    "products": "viesacamion",
+    "email": "info@tallerescasa.es",
+    "phone": "980 633468",
+    "address": "c/ Ctra Madrid nº 261 Nave 1ª"
+  },
+  {
+    "name": "Serviruta Los Mellizos",
+    "country": "españa",
+    "state": "jaen",
+    "location": "38.19429, -3.671975",
+    "products": "viesacamion",
+    "email": "info@serviruta.com/ compras@servi-ruta.com",
+    "phone": "953 615131",
+    "address": "Ctra N- IV KM. 280"
+  },
+  {
+    "name": "Pepcomsystem",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.321311, -3.678416",
+    "products": "viesacamion, vigiacamion",
+    "email": "info@pepcomsystem.es/administracion@grupobms.es",
+    "phone": "91 6842019",
+    "address": "C/ Solidaridad, 15 P.I. Los Olivos"
+  },
+  {
+    "name": "Nomadas  Life",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.546503, -5.698374",
+    "products": "viesaautocaravana",
+    "email": "info@nomadaslife.es",
+    "phone": "984 182221",
+    "address": "Av. de Eduardo Castro, 96, 33212 Gijón, Asturias"
+  },
+  {
+    "name": "Mydalex Motorhome ",
+    "country": "españa",
+    "state": "alicante",
+    "location": "38.417011, -0.416973",
+    "products": "viesaautocaravana",
+    "email": "info@mydalexmotorhome.com",
+    "phone": "96 5651866",
+    "address": "Ctra. Nacional 332 Km 117"
+  },
+  {
+    "name": "Mi casa con ruedas ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.580952, 2.272437",
+    "products": "viesaautocaravana",
+    "email": "info@micasaconruedas.com",
+    "phone": "93 5702841",
+    "address": "Avda. Sant Julia, 206-220  NAVE 10"
+  },
+  {
+    "name": "Autocaravanas para todos",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.515186, -0.456049",
+    "products": "viesaautocaravana",
+    "email": "info@luxecaravaning.com",
+    "phone": "96 1340788",
+    "address": "CL/Oller,2"
+  },
+  {
+    "name": "Lidercaravan",
+    "country": "españa",
+    "state": "bizkaia",
+    "location": "43.233749, -2.867231",
+    "products": "viesaautocaravana",
+    "email": "info@lidercaravan.es",
+    "phone": "94 4575560",
+    "address": "Pol. Irubide nº3"
+  },
+  {
+    "name": "Man Truck & Bus Lemauto León",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.584023, -5.628799",
+    "products": "viesacamion",
+    "email": "info@lemauto.es",
+    "phone": "987 840008",
+    "address": "crta de Leon- Astorga Km 5"
+  },
+  {
+    "name": "La campa del caravaning",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.51193, 2.395808",
+    "products": "viesaautocaravana",
+    "email": "info@lacampadelcaravaning.com",
+    "phone": "93 2229060",
+    "address": "Carretera de Argentona (B-502), Km. 0,8, 08340 "
+  },
+  {
+    "name": "Taller Master Josep Mas ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.628369, 2.290129",
+    "products": "viesacamion",
+    "email": "info@josepmas.com",
+    "phone": "93 8492955",
+    "address": "C/ Mas Pujol, 40 nave 3  P.I. sector 5"
+  },
+  {
+    "name": "Galicia  Caravaning, ",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.31174, -8.277079",
+    "products": "viesaautocaravana",
+    "email": "info@galiciacaravaning.es",
+    "phone": "981 780770",
+    "address": " Rúa Parroquia de Guísamo, b3, 15165 "
+  },
+  {
+    "name": "Full Camper Palencia",
+    "country": "españa",
+    "state": "palencia",
+    "location": "42.014873, -4.518606",
+    "products": "viesaautocaravana",
+    "email": "info@fullcamper.com",
+    "phone": "979 030359",
+    "address": "Avda. Cuba, 47"
+  },
+  {
+    "name": "Eurotete",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.635622, 2.294522",
+    "products": "viesaautocaravana",
+    "email": "info@eurotete.com",
+    "phone": "680 285 848",
+    "address": "CL/LLERONA,293 Corró d'Avall"
+  },
+  {
+    "name": "Electrofrisa",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "38.634423, -3.468088",
+    "products": "viesacamion",
+    "email": "info@electrofrisa.com",
+    "phone": "926 342719/",
+    "address": "Autovia de Andalucia 0 km. 217"
+  },
+  {
+    "name": "Dandoli Primi ",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.743679, -1.087427",
+    "products": "viesacamion",
+    "email": "info@dandoliprimi.com",
+    "phone": "976 207596",
+    "address": "Ctra.de Logroño km 259"
+  },
+  {
+    "name": "Comercial Caravaning Gestion ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.356575, -3.822543",
+    "products": "viesaautocaravana",
+    "email": "info@comercialcaravaning.com",
+    "phone": "91 6111453",
+    "address": "Avda. San Martin de Valdeiglesias Nº 1"
+  },
+  {
+    "name": "Carrocerias Yecla ",
+    "country": "españa",
+    "state": "murcia",
+    "location": "38.599215, -1.165035",
+    "products": "viesacamion",
+    "email": "info@carroceriasyecla.com",
+    "phone": "968 718656",
+    "address": "Ctra. Nacional 344 PK. 92.800"
+  },
+  {
+    "name": "Caravaning Integral",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.478906, 1.948515",
+    "products": "viesaautocaravana",
+    "email": "info@caravaningintegral.com",
+    "phone": "93 7799768",
+    "address": "Cami de la casa nova s/n P.I. L'olana"
+  },
+  {
+    "name": "Caravaning City",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.296177, 2.010576",
+    "products": "viesaautocaravana",
+    "email": "info@caravaningcity.com",
+    "phone": "937799762",
+    "address": "c/ La Forja 13"
+  },
+  {
+    "name": "Caravanas Vendrell",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.228192, 1.554565",
+    "products": "viesaautocaravana",
+    "email": "info@caravanasvendrell.com",
+    "phone": "977 667025",
+    "address": "Ctra. Nacional 340 km 1192.50"
+  },
+  {
+    "name": "Caravanas  Turmo",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.580926, 2.029025",
+    "products": "viesaautocaravana",
+    "email": "info@caravanasturmo.com",
+    "phone": "93 7839 810",
+    "address": "Carrer de la Castellassa, 50, 08227 "
+  },
+  {
+    "name": "Caravanas Sondika",
+    "country": "españa",
+    "state": "bizkaia",
+    "location": "43.295321, -2.902148",
+    "products": "viesaautocaravana",
+    "email": "info@caravanassondika.com",
+    "phone": "94 4711468",
+    "address": "C/ Sutxu Bidea 6"
+  },
+  {
+    "name": "Caravanas Santander",
+    "country": "españa",
+    "state": "cantabria",
+    "location": "43.421924, -3.857514",
+    "products": "viesaautocaravana",
+    "email": "info@caravanas-santander.com",
+    "phone": "942 254161",
+    "address": "Ctra. Burgos, km 146.5"
+  },
+  {
+    "name": "Caravanas Principado de Asturias ",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.43252, -5.787725",
+    "products": "viesaautocaravana",
+    "email": "info@caravanasprincipado.es",
+    "phone": "985 263299",
+    "address": "Ctra. Antigua Oviedo-Gijon.km 7 (As-18a)"
+  },
+  {
+    "name": "Mikel Caravaning",
+    "country": "españa",
+    "state": "bizkaia",
+    "location": "43.177079, -2.643816",
+    "products": "viesaautocaravana",
+    "email": "info@caravanasmikel.eus",
+    "phone": "696 509 373",
+    "address": "Pol. Ind. Mallabiena N4 A, 48215 Iurreta, BI"
+  },
+  {
+    "name": "Remolques y Caravanas Mallon ",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.283898, -8.208195",
+    "products": "viesaautocaravana",
+    "email": "info@caravanasmallon.com",
+    "phone": "981 770376",
+    "address": "c/Saavedra Meneses 65 Bajo"
+  },
+  {
+    "name": "Caravanas Hernandez",
+    "country": "españa",
+    "state": "salamanca",
+    "location": "39.449021, -6.485708",
+    "products": "viesaautocaravana",
+    "email": "info@caravanashernandez.com",
+    "phone": "923 209939",
+    "address": "Ctra. Aldealengua km.1,9"
+  },
+  {
+    "name": "Caravanas Expogandia ",
+    "country": "españa",
+    "state": "valencia",
+    "location": "38.95015, -0.194289",
+    "products": "viesaautocaravana",
+    "email": "info@caravanasexpogandia.com",
+    "phone": "96 2877780",
+    "address": "Jaime I, 4 46727"
+  },
+  {
+    "name": "Caravanas Evasion",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.332361, -1.817149",
+    "products": "viesaautocaravana",
+    "email": "info@caravanas-evasion.com",
+    "phone": "943 634440",
+    "address": "Avda Letxumborro, 79 local 7"
+  },
+  {
+    "name": "Caravanas Eradio",
+    "country": "españa",
+    "state": "bizkaia",
+    "location": "43.31855, -2.972115",
+    "products": "viesaautocaravana",
+    "email": "info@caravanaserandio.com",
+    "phone": "94 4673275",
+    "address": "CR/La Avanzada,48,C"
+  },
+  {
+    "name": "Caravanas Cerdanyola",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.48468, 2.15938",
+    "products": "viesaautocaravana",
+    "email": "info@caravanascerdanyola.com",
+    "phone": "93 5646057",
+    "address": "Ctra Nacional 150 Km 3"
+  },
+  {
+    "name": "Caravanas Sanchez Castro",
+    "country": "españa",
+    "state": "cordoba",
+    "location": "37.595948, -4.304573",
+    "products": "viesaautocaravana",
+    "email": "info@caravanasanchezcastro.es",
+    "phone": "957 962205",
+    "address": "CL/Moriles  P.I. Los Llanos,9"
+  },
+  {
+    "name": "Caracol Park Vigo",
+    "country": "españa",
+    "state": "pontevedra",
+    "location": "42.211286, -8.768221",
+    "products": "viesaautocaravana",
+    "email": "info@caracolpark.com",
+    "phone": "986 241224",
+    "address": "Avda. europa s/n 36212  Samil"
+  },
+  {
+    "name": "Camperbaos Accesorios ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.263088, -3.839952",
+    "products": "viesaautocaravana",
+    "email": "info@camperbaos.es",
+    "phone": "637 588 108",
+    "address": "Calle Amapola, 15, 28970 Humanes de Madrid, Madrid"
+  },
+  {
+    "name": "Camping Center Canarias ",
+    "country": "españa",
+    "state": "las-palmas",
+    "location": "28.104084, -15.486938",
+    "products": "viesaautocaravana",
+    "email": "info@c3canarias.es",
+    "phone": "928 436449",
+    "address": "Barranco de Jacomar, 47"
+  },
+  {
+    "name": "ManTruck & Bus Center Distribucions Boadella Lleida",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.615965, 0.678265",
+    "products": "viesacamion",
+    "email": "info@boadella.com",
+    "phone": "973 216167",
+    "address": "arrer L, parcela 17, isla 20 Pol. Ind El, Camí de Frares, 25190 "
+  },
+  {
+    "name": "Man Truck & Bus Center Distribucions Boadella Tarragona",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.160012, 1.171674",
+    "products": "viesacamion",
+    "email": "info@boadella.com/fgonzalez@boadella.com",
+    "phone": "977 524703",
+    "address": "Calle Alemania s/n,"
+  },
+  {
+    "name": "Man Truck & Bus Service Boadella L'Aldea",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "40.755234, 0.632641",
+    "products": "viesacamion",
+    "email": "info@boadella.com",
+    "phone": "977 450102",
+    "address": "N-340a, Km 1089, 43896"
+  },
+  {
+    "name": "Autocaravancar ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.300187, -3.467452",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravancar.com",
+    "phone": "91 8276615",
+    "address": "c/ Mercurio 1"
+  },
+  {
+    "name": " Autocaravanas norte ",
+    "country": "españa",
+    "state": "alava",
+    "location": "42.8166, -2.787244",
+    "products": "viesaautocaravana",
+    "email": "victoria110@autocaravanasnorte.com",
+    "phone": "945 157077",
+    "address": "P.I. Subillabide C/ Tratado de París,3"
+  },
+  {
+    "name": "Autocaravanas  Irun",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.332694, -1.807644",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravanasirun.es",
+    "phone": "943 103103",
+    "address": "Auzolan 10 P.I. Alto De Arretxe, 20303 I"
+  },
+  {
+    "name": "Anoia Caravanes ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.598279, 1.571761",
+    "products": "viesaautocaravana",
+    "email": "j.casas@anoiacaravanas.com",
+    "phone": "93 8094135",
+    "address": "Ctra N-II Km 549,2 Autovia N.II, sortid"
+  },
+  {
+    "name": "Promoción de Vehic. y Maquinarias",
+    "country": "españa",
+    "state": "albacete",
+    "location": "39.012582, -1.879206",
+    "products": "igia-camion, viesacamion, vigiacamion",
+    "email": "i.jimenez@provehima.com",
+    "phone": "967 216762",
+    "address": "P.I. Campollano c/C Nº 20 - Apdo. 1178"
+  },
+  {
+    "name": "Vulcanizados Hoznayo ",
+    "country": "españa",
+    "state": "cantabria",
+    "location": "43.389678, -3.693926",
+    "products": "viesacamion",
+    "email": "hoznayo@hoznayo.com",
+    "phone": "942 525106",
+    "address": "B.º La Sierra. Nº 4 "
+  },
+  {
+    "name": "Hispavan Trading",
+    "country": "españa",
+    "state": "almeria",
+    "location": "37.26475, -1.902472",
+    "products": "viesaautocaravana",
+    "email": "hispatecnic@hispavan.com",
+    "phone": "950 047033",
+    "address": "C/Parque Industrial El Real, Calle el Garcel, F14, 04628 Antas, Almería"
+  },
+  {
+    "name": "Autocaravanas Hidalgo ",
+    "country": "españa",
+    "state": "sevilla",
+    "location": "37.37837, -5.892298",
+    "products": "viesaautocaravana",
+    "email": "hidalgo@autocaravanashidalgo.com",
+    "phone": "954 101115",
+    "address": "Autovía A-92, Km. 15 (Salida 15. San Juan de Dios)"
+  },
+  {
+    "name": "Hermanos Angulo Fernandez",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.402512, -3.129528",
+    "products": "viesacamion",
+    "email": "hermanosangulo@gmail.com",
+    "phone": "926 560360",
+    "address": "c/ Gregorio Bermejo 16/12"
+  },
+  {
+    "name": "Elect. Hnos Conesa Garcia",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.764167, -1.08568",
+    "products": "viesacamion, vigiacamion",
+    "email": "hcg@electroconesa.es",
+    "phone": "968 151589",
+    "address": "Paraje Los Perez, s/n"
+  },
+  {
+    "name": "Guilarte Hnos",
+    "country": "españa",
+    "state": "burgos",
+    "location": "42.350963, -3.648513",
+    "products": "viesacamion",
+    "email": "guilarte.h@bosch-bcs.com",
+    "phone": "947 486147",
+    "address": "c/ alcalde martin cobos, 0 s/n 09007 "
+  },
+  {
+    "name": "Gruas y Servicios Baza ",
+    "country": "españa",
+    "state": "granada",
+    "location": "37.506499, -2.765886",
+    "products": "viesacamion",
+    "email": "gruasyservicios_baza@yahoo.es",
+    "phone": "958 703906",
+    "address": "Ctra. de Benamaurel Km 1,5"
+  },
+  {
+    "name": "Centro Caravaning Gorbea",
+    "country": "españa",
+    "state": "alava",
+    "location": "42.818934, -2.782095",
+    "products": "viesaautocaravana",
+    "email": "gorbea@caravaning-gorbea.com",
+    "phone": "945 240417",
+    "address": "P.I. Subillabide Ctra N.I Km 341 C/ Trat"
+  },
+  {
+    "name": "Lecitrailer ",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.717526, -1.020359",
+    "products": "vigiacamion",
+    "email": "gonzalosanchez@lecitrailer.es",
+    "phone": "976 462121",
+    "address": "Camino de los Huertos S/N 50620"
+  },
+  {
+    "name": "Man Truck & Bus Center Cascotruck",
+    "country": "españa",
+    "state": "cadiz ",
+    "location": "36.65, -6.131066",
+    "products": "viesacamion",
+    "email": "gestion@cascotruck.com",
+    "phone": "956 145756",
+    "address": " Pol. Ind. El Portal Parcela 137"
+  },
+  {
+    "name": "Autocaravanas Caceres",
+    "country": "españa",
+    "state": "caceres",
+    "location": "39.44978, -6.477526",
+    "products": "viesaautocaravana",
+    "email": "furgocamperson@gmail.com",
+    "phone": "650 977 542",
+    "address": "CL/C Nave 69P.I. Las Arenas  Sector 3,"
+  },
+  {
+    "name": "Roulot Accesorios ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.353160, -3.846982",
+    "products": "viesaautocaravana",
+    "email": "ventas@roulot.com",
+    "phone": "91 6111003",
+    "address": "Av. San Martín Valdeiglesias, km. 2,2,Alcorcón 28925 "
+  },
+  {
+    "name": "Esplai Caravaning Manresa ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.782909, 1.887813",
+    "products": "viesaautocaravana",
+    "email": "esplai@esplaicaravaning.com",
+    "phone": "93 8371818",
+    "address": "Ctra. C-16 Km 59"
+  },
+  {
+    "name": "talleres Esgon",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.186903, -3.765807",
+    "products": "viesacamion",
+    "email": "esgon28990@hotmail.es",
+    "phone": "639 139 642",
+    "address": "poligono industrial la frontera,  c/ avenida de la frontera, 28 izquierda 28990"
+  },
+  {
+    "name": "Electro Reparaciones Jufer ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.322987, -3.678677",
+    "products": "viesacamion",
+    "email": "erjufer@gmail.com",
+    "phone": "91 7963012",
+    "address": "C/ de la Iniciativa, 18   P.I.Los Olivos"
+  },
+  {
+    "name": "Veinsur Granada",
+    "country": "españa",
+    "state": "granada",
+    "location": "37.199631, -3.813949",
+    "products": "viesacamion",
+    "email": "emilio.lopez@veinsur.es",
+    "phone": "958 411600",
+    "address": "Crta de lachar-sector S1-2 (A92-SAL 225)"
+  },
+  {
+    "name": "Lemauto",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.595208, -5.611999",
+    "products": "viesacamion",
+    "email": "elias.rojas@lemauto.es",
+    "phone": "987 840130",
+    "address": "Ctra. de Leon - Astorga km 5"
+  },
+  {
+    "name": " Electromecanica Vamba",
+    "country": "españa",
+    "state": "cuenca",
+    "location": "39.408443, -2.410494",
+    "products": "viesacamion",
+    "email": "electromecanicavamba@gmail.com",
+    "phone": "629 455786",
+    "address": "CL/San Vicente de Paul,10- calle 2, 2 16600"
+  },
+  {
+    "name": "Electrofrio Diego ruso",
+    "country": "españa",
+    "state": "huelva",
+    "location": "37.318343, -6.68267",
+    "products": "viesacamion",
+    "email": "electrofriodiegoruso@gmail.com",
+    "phone": "959 36 6523",
+    "address": "Av de Lucena del Puerto, 21830, 21830 "
+  },
+  {
+    "name": "Electrofrio Ortiz de Zarate ",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.017595, -3.363252",
+    "products": "viesacamion",
+    "email": "electrofrio@de-tomelloso.com",
+    "phone": "926 644759",
+    "address": "P.I. Manzanares c/ 2 Parcela 19"
+  },
+  {
+    "name": "Albamur ",
+    "country": "españa",
+    "state": "albacete",
+    "location": "39.017746, -1.858161",
+    "products": "vigiacamion",
+    "email": "e.fernandez@grupogomarizmotor.com",
+    "phone": "967 242670",
+    "address": "CR/De Requena Km. 1 Sal. 387"
+  },
+  {
+    "name": "Recambios Barreiro ",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.311951, -8.277723",
+    "products": "viesacamion",
+    "email": "diego@recambiosbarreiro.com",
+    "phone": "981 783636",
+    "address": "C/Parroquia de Guisamo A1-A4"
+  },
+  {
+    "name": "Construcciones Metálicas Cerezuela",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.116762, 1.151644",
+    "products": "vigiacamion",
+    "email": "dcerezuela@cmccerezuela.com",
+    "phone": "977 395660",
+    "address": "Avda. Vila del Comú Pla. A 9 P.I. del Al"
+  },
+  {
+    "name": "Mundiremolc",
+    "country": "españa",
+    "state": "girona",
+    "location": "41.934042, 2.843745",
+    "products": "viesaautocaravana",
+    "email": "cristina@mundiremolc.com",
+    "phone": "972 469214",
+    "address": "Ctra Girona 4"
+  },
+  {
+    "name": "Masquecamper Travel",
+    "country": "españa",
+    "state": "la-rioja",
+    "location": "42.452716, -2.408414",
+    "products": "viesaautocaravana",
+    "email": "contacto@masquecamper.com",
+    "phone": "941 577770",
+    "address": "C/ Planillo 29 P.I. Portalada II"
+  },
+  {
+    "name": "Conformados Topograficos",
+    "country": "españa",
+    "state": "toledo",
+    "location": "40.087371, -3.863025",
+    "products": "viesacamion",
+    "email": "conformados.taller@gmail.com",
+    "phone": "925 532 071",
+    "address": "C/ Ebanistas Nº50 "
+  },
+  {
+    "name": "Rent camper Madrid",
+    "country": "españa",
+    "state": "toledo",
+    "location": "40.15311, -3.823653",
+    "products": "viesaautocaravana",
+    "email": "rentcampermadrid@gmail.com",
+    "phone": "925 718339",
+    "address": "Avda. de las Naciones 33, Nave 3-Señorío de Illescas C.P. 45200 (Salida km 32, Nacional A42)"
+  },
+  {
+    "name": "Farcinox ",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.390238, -2.945763",
+    "products": "vigiacamion",
+    "email": "compras@farcinox.com/ administracion@farcinox.com",
+    "phone": "926 587154",
+    "address": "Avda. Julián Saez 7 (P.I.Serycal)"
+  },
+  {
+    "name": "Centro de talleres  Etrambus ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.319421, -3.676381",
+    "products": "vigiacamion",
+    "email": "compras@etrambus.es",
+    "phone": "91 5050552",
+    "address": "P.I. Los Olivos C/ Investigacion 2,"
+  },
+  {
+    "name": "Sur Caravaning Estepona 2007",
+    "country": "españa",
+    "state": "malaga",
+    "location": "36.426807, -5.146848",
+    "products": "viesaautocaravana",
+    "email": "surcaravaning@gmail.com",
+    "phone": "605 918 328",
+    "address": "Calle Gaudí 23"
+  },
+  {
+    "name": "Comercial J. Siscart ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.409833, 2.176268",
+    "products": "viesacamion",
+    "email": "comercial@siscart.com",
+    "phone": "93 4558034",
+    "address": "c/ Cartagena 290-292"
+  },
+  {
+    "name": "Love Caravaning",
+    "country": "españa",
+    "state": "navarra",
+    "location": "42.765849, -1.631322",
+    "products": "viesaautocaravana",
+    "email": "comercial@lovecaravaning.com",
+    "phone": "948 150569",
+    "address": "CL/D Nave 9 P.I. Talluntxe"
+  },
+  {
+    "name": "Comequin",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.593181, -3.064878",
+    "products": "viesacamion",
+    "email": "comercial@comequin.es",
+    "phone": "925 180483",
+    "address": "Ctra. Quintanar-Villacañas s/n"
+  },
+  {
+    "name": "Carrocerias Bus",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.249296, -3.78517",
+    "products": "vigiacamion",
+    "email": "comercial@carroceriasbus.com",
+    "phone": "91 6422611",
+    "address": "Avda. Torres Quevedo, 16 PAU-5"
+  },
+  {
+    "name": "Caravanas Juan ",
+    "country": "españa",
+    "state": "pontevedra",
+    "location": "42.11733, -8.617694",
+    "products": "viesaautocaravana",
+    "email": "comercial@caravanasjuan.com",
+    "phone": "986 335004",
+    "address": "Pol. Ind. A Granxa, PPI-6, Parcela 18, 36475 O Porriño, PO"
+  },
+  {
+    "name": "Talleres Cobo Hnos",
+    "country": "españa",
+    "state": "cantabria",
+    "location": "43.40011, -3.844448",
+    "products": "vigiacamion",
+    "email": "cobo@cisternascobo.com",
+    "phone": "942 559353",
+    "address": "Pol. Ind. de Guarnizo Parc. 22"
+  },
+  {
+    "name": "Central del Caravaning ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.521676, 2.129123",
+    "products": "viesaautocaravana",
+    "email": "central@centraldelcaravaning.com",
+    "phone": "93 7188003",
+    "address": "Ronda Santa María, 222"
+  },
+  {
+    "name": "Carrero  Automoción ",
+    "country": "españa",
+    "state": "caceres",
+    "location": "39.44989, -6.369708",
+    "products": "viesaautocaravana",
+    "email": "carreroautomocion@telefonica.net",
+    "phone": "927 244 878",
+    "address": "CL/Oceano Artico,25"
+  },
+  {
+    "name": "Automocion La Pista ",
+    "country": "españa",
+    "state": "castellon",
+    "location": "39.9574, -0.07598",
+    "products": "viesacamion",
+    "email": "antonio@aupisa.es",
+    "phone": "629 236 111",
+    "address": "Ctra Valencia-Barcelona Km. 61,7"
+  },
+  {
+    "name": "Talleres Pablo García ",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.959174, -4.923238",
+    "products": "viesacamion",
+    "email": "carlos.avis@talleres-pablo-garcia.com",
+    "phone": "925 823393",
+    "address": "P.I. Torrehierro c/. Edison, Parcela 427"
+  },
+  {
+    "name": "Caravaning Zasecar ",
+    "country": "españa",
+    "state": "alava",
+    "location": "42.860826, -2.712315",
+    "products": "viesaautocaravana",
+    "email": "caravaningzasecar@gmail.com",
+    "phone": "945 228251",
+    "address": "C/ Urartea 15-17 Pabellon 12"
+  },
+  {
+    "name": "Caravaning Palencia",
+    "country": "españa",
+    "state": "palencia",
+    "location": "42.008267, -4.511959",
+    "products": "viesaautocaravana",
+    "email": "caravaningpalenciasa@gmail.com",
+    "phone": "979 727730",
+    "address": "Avda. Comunidad Europea  Parc. 28"
+  },
+  {
+    "name": "Electricidad del Automovil Caraball",
+    "country": "españa",
+    "state": "cordoba",
+    "location": "37.6231, -4.313235",
+    "products": "viesacamion",
+    "email": "caraballotaller@hotmail.com",
+    "phone": "957 691822",
+    "address": "Av. Alemania Parc. 43"
+  },
+  {
+    "name": "Taller MAN-Autotractor Matias Grau,",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.9484, 2.25503",
+    "products": "viesacamion",
+    "email": "autotractor@autotractormg.com",
+    "phone": "93 8891069",
+    "address": "Camí Polvorí, S/N"
+  },
+  {
+    "name": "Autoelectricidad Turpin",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.967564, -1.096389",
+    "products": "viesacamion",
+    "email": "autoelectricidad.turpin@hotmail.com",
+    "phone": "968 348181",
+    "address": "Camino de Tiñosa 44 Bajo"
+  },
+  {
+    "name": "Auto-Electric Arreaza",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "38.915504, -3.661984",
+    "products": "viesacamion",
+    "email": "autoelectric.a@hotmail.com",
+    "phone": "926 870542",
+    "address": "Ctra. Daimiel, 40"
+  },
+  {
+    "name": "Autocares Vazquez Olmedo ",
+    "country": "españa",
+    "state": "malaga",
+    "location": "36.683587, -4.542309",
+    "products": "vigiacamion",
+    "email": "autocares@vazquezolmedo.com",
+    "phone": "952 433523",
+    "address": "Ctra. Churriana - Cártama (A7052) Km 1,3"
+  },
+  {
+    "name": "Autocaravanas Conil ",
+    "country": "españa",
+    "state": "cadiz",
+    "location": "36.306656, -6.080098",
+    "products": "viesaautocaravana",
+    "email": "autocaravanasconil@gmail.com",
+    "phone": "627 343 850",
+    "address": "Pol. Ind La Lobita s/nº  N 340, Km. 21,400, 11149 "
+  },
+  {
+    "name": "Mant. Int. Autocaravanas Guacas ",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.351376, -8.448297",
+    "products": "viesaautocaravana",
+    "email": "autocaravanas.guacas@gmail.com",
+    "phone": "981 262818",
+    "address": "C/ Monte Rasbadeira Nave 3 A"
+  },
+  {
+    "name": "Talleres Mudela",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "38.635375, -3.47213",
+    "products": "viesacamion",
+    "email": "aumadecavolvo@hotmail.com",
+    "phone": "926 349018",
+    "address": "Autovía de Andalucía Km. 217"
+  },
+  {
+    "name": "Aucalga ",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.385624, -5.784509",
+    "products": "viesaautocaravana",
+    "email": "aucalga@aucalga.com",
+    "phone": "985 794929",
+    "address": "Carr. de la Estación, 4, 33429 "
+  },
+  {
+    "name": "talleres Antonio de la Torre",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "38.778047, -3.392991",
+    "products": "viesacamion",
+    "email": "attslu@hotmail.com/ victordelatorre@intertaller.com",
+    "phone": "926 312531",
+    "address": "P.I.del vino C/Pellejo 18 Parcela 44"
+  },
+  {
+    "name": "Autocaravanas Gayo ",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.527799, -5.713494",
+    "products": "viesaautocaravana",
+    "email": "asturgayo@hotmail.com",
+    "phone": "659 47 92 77",
+    "address": "Avda. Metalurgia, 22  P.I. Bankunion II"
+  },
+  {
+    "name": "AP Control Caravaning ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.466461, 2.170502",
+    "products": "viesaautocaravana",
+    "email": "taller@areapuntocontrol.com",
+    "phone": "93 5726052",
+    "address": "C/ Can Cuias 50"
+  },
+  {
+    "name": "Parcisa",
+    "country": "españa",
+    "state": "albacete",
+    "location": "39.251439, -2.620673",
+    "products": "vigiacamion",
+    "email": "aparra@parcisa.com",
+    "phone": "967 14 15 33",
+    "address": "Ctra. Tomelloso, km 1.800"
+  },
+  {
+    "name": " Bosch Car Service -Anzizar ",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.048439, -2.217766",
+    "products": "viesacamion",
+    "email": "anzizar@anzizar.com",
+    "phone": "943 881700",
+    "address": "Ctra Beasain Zumárraga Km. 46"
+  },
+  {
+    "name": "Yakart Centrocaravaning",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.332371, -8.424698",
+    "products": "viesaautocaravana",
+    "email": "info@yakartcentrocaravaning.com",
+    "phone": "981 100134",
+    "address": "Carretera de Mesoiro, 63"
+  },
+  {
+    "name": "Muñoz Robleño",
+    "country": "españa",
+    "state": "burgos",
+    "location": "42.356966, -3.648436",
+    "products": "viesacamion",
+    "email": "antonio@mrobleno.com",
+    "phone": "947 480150",
+    "address": "C/ Vitoria  272-274 Naves 44-45"
+  },
+  {
+    "name": "Veinsur Cordoba",
+    "country": "españa",
+    "state": "cordoba",
+    "location": "37.904266, -4.717636",
+    "products": "viesacamion",
+    "email": "antonio.molina@veinsur.es",
+    "phone": "957 325877",
+    "address": "P.I. las Quemadas parcela 50"
+  },
+  {
+    "name": "Talauto ",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.979907, -4.727586",
+    "products": "viesacamion",
+    "email": "angel.dorado@renault-trucks.net",
+    "phone": "925 869150",
+    "address": "Antigua N-V km. 107,500"
+  },
+  {
+    "name": "Caravanas Osito ",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.581602, -0.529599",
+    "products": "viesaautocaravana",
+    "email": "anamaria@caravanasosito.com",
+    "phone": "96 2765382",
+    "address": "Ctra. Ademuz Km. 17 salida 1 c/  Calle Sotavento, 2, 46185 "
+  },
+  {
+    "name": "Rent Camper Canarias ",
+    "country": "españa",
+    "state": "las-palmas",
+    "location": "27.862831, -15.422128",
+    "products": "viesaautocaravana",
+    "email": "rentcampergrancanaria@gmail.com",
+    "phone": "922 539989",
+    "address": " P.I Arinara Calle los Dragos, 6, 35118 Agüimes, Las Palmas"
+  },
+  {
+    "name": "Pozo Cogullada",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.720636, -0.849606",
+    "products": "viesacamion",
+    "email": "almacenvdopozo@yahoo.es",
+    "phone": "976 471553",
+    "address": "c/ PB Parcela 134 (Cdad. del Tte)"
+  },
+  {
+    "name": "Motortrans",
+    "country": "españa",
+    "state": "huesca",
+    "location": "42.123374, -0.430525",
+    "products": "viesacamion",
+    "email": "almacen-l.motortrans@rediveco.com",
+    "phone": "974 210030",
+    "address": "Ctr. Zaragoza s/n poligono 9 parcela 63"
+  },
+  {
+    "name": "Diego Castejon e hijos",
+    "country": "españa",
+    "state": "cadiz",
+    "location": "36.72433, -6.096531",
+    "products": "viesacamion",
+    "email": "almacen@diegocastejonehijos.com",
+    "phone": "956 1577 80",
+    "address": "P.I. Ciudad del Tte. Avda. del tte. s/n"
+  },
+  {
+    "name": "Garcid ",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "40.67521, 0.583181",
+    "products": "viesacamion",
+    "email": "alfredogarcia@garcid.es",
+    "phone": "977 701669",
+    "address": "Ctra. Nacional 340 Km. 1078"
+  },
+  {
+    "name": "Taller Mecanico Aldosagra",
+    "country": "españa",
+    "state": "toledo",
+    "location": "40.019607, -3.814171",
+    "products": "viesacamion",
+    "email": "aldosagra-admi@hotmail.es",
+    "phone": "925 500127",
+    "address": "Ctra. Ocaña kM 34,800"
+  },
+  {
+    "name": "Caravaning Plaza ",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.643362, -0.998888",
+    "products": "viesaautocaravana",
+    "email": "alberto@caravaningplaza.com",
+    "phone": "876 768766",
+    "address": "Pol. Ind. Plaza C/ Messina 16 A"
+  },
+  {
+    "name": "Osito Camper Van ",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.565802, -0.50467",
+    "products": "viesaautocaravana",
+    "email": "alba@grupocaravanasosito.com",
+    "phone": "963 12 90 36",
+    "address": "CL/ Masia de San Antonio 3"
+  },
+  {
+    "name": "ManTruck & Bus Center Castellón V.I.",
+    "country": "españa",
+    "state": "castellon",
+    "location": "39.970017, -0.071694",
+    "products": "viesacamion",
+    "email": "administracion@servidiesel.es",
+    "phone": "964 342730",
+    "address": "Camino San Jaime Ctr, 30"
+  },
+  {
+    "name": "Mecanica de Camiones del Sil",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.619062, -6.608302",
+    "products": "viesacamion",
+    "email": "administracion@mecasil.es",
+    "phone": "987 421876",
+    "address": "Polígono Cabañas Raras, Parc.nº 32, Industrial, 24412"
+  },
+  {
+    "name": "Mecanitruck",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.003992, -3.753957",
+    "products": "viesacamion",
+    "email": "administracion@mecanitruck.es",
+    "phone": "926 841495",
+    "address": "P.I. La Vega c/ dehesa del campo Parcela"
+  },
+  {
+    "name": "ManTruck & Bus Service Jordi Motor",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.068696, -0.272857",
+    "products": "viesacamion",
+    "email": "administracion@jordimotors.com/taller@jordimotors.com",
+    "phone": "96 2821584",
+    "address": "av, valldigna 71"
+  },
+  {
+    "name": "Frevo",
+    "country": "españa",
+    "state": "albacete",
+    "location": "39.260703, -2.610713",
+    "products": "vigiacamion",
+    "email": "administracion@frevo.es",
+    "phone": "967 137162",
+    "address": "Ctra. Tomelloso, Km 4.200"
+  },
+  {
+    "name": "Man Truck & Bus Service Consorcio de Mecánicos Sagunto",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.654574, -0.226258",
+    "products": "viesacamion",
+    "email": "administracion@comesasl.com",
+    "phone": "96 2664661",
+    "address": "Comesa  Ava. Del PuertoP.I. Sagunto 11"
+  },
+  {
+    "name": "Carrocerias Granada",
+    "country": "españa",
+    "state": "granada",
+    "location": "37.210377, -3.679237",
+    "products": "vigiacamion",
+    "email": "administracion@carroceriasgranada.com",
+    "phone": "958 436150",
+    "address": "Ctra de Cordoba Km. 429"
+  },
+  {
+    "name": "Man Truck & Bus Service Autodiesel",
+    "country": "españa",
+    "state": "pamplona",
+    "location": "42.921664, -1.831341",
+    "products": "viesacamion",
+    "email": "administracion@autodieseldeirurzun.com",
+    "phone": "948 500002",
+    "address": "Akaborro Ind., s/n, 31860 Irurtzun"
+  },
+  {
+    "name": "Man Truck & Bus Service Movielca",
+    "country": "españa",
+    "state": "burgos",
+    "location": "41.665056, -3.708261",
+    "products": "viesacamion",
+    "email": "administracion.es0031@es.man-mn.com/movielca@movielca.com",
+    "phone": "947 508140",
+    "address": "Av. Luis Mateos, 108,"
+  },
+  {
+    "name": "Autocaravanas Llansola",
+    "country": "españa",
+    "state": "castellon",
+    "location": "39.972768, -0.056717",
+    "products": "viesaautocaravana",
+    "email": "admin@llansolacs.com",
+    "phone": "647 777 107",
+    "address": " P.I. Ronda Sur, Calle Sierra de Irta, 5, 12006 "
+  },
+  {
+    "name": "Autocaravanas  Pasión",
+    "country": "españa",
+    "state": "sevilla",
+    "location": "37.319858, -6.031476",
+    "products": "viesaautocaravana",
+    "email": "acpasionse@gmail.com",
+    "phone": "696 375 907",
+    "address": "AV/De La Industria P,I Guadalquivir,2 B"
+  },
+  {
+    "name": "Autocaravanas Montaño ",
+    "country": "españa",
+    "state": "sevilla",
+    "location": "37.240914, -5.925554",
+    "products": "viesaautocaravana",
+    "email": "a.c.montano@hotmail.com",
+    "phone": "95 5666514",
+    "address": "Ctra. N. IV Km. 559,5"
+  },
+  {
+    "name": "Tecnocamper Lda.",
+    "country": "portugal",
+    "state": "agualva-cacem",
+    "location": "38.754399, -9.306214",
+    "products": "viesaautocaravana",
+    "email": "geral@tecnocamper.pt",
+    "phone": " +351 21 4264676",
+    "address": "Centro Empresarial Do Cacem, Estr. de Paço de Arcos 167 Armazem I, 2735-307 "
+  },
+  {
+    "name": "Luis Abreu, Unipessoal Lda.",
+    "country": "portugal",
+    "state": "arcozelo",
+    "location": "41.051066, -8.637",
+    "products": "viesacamion",
+    "email": "luis.abreu.lub@gmail.com",
+    "phone": " +351 96 8240535",
+    "address": "R. Chãos Velhos 731-745 Vila Nova De Gaia"
+  },
+  {
+    "name": "Man Hydraplan",
+    "country": "portugal",
+    "state": "portugal",
+    "location": "38.89303, -9.051243",
+    "products": "viesacamion",
+    "email": "rui.berto@man.eu",
+    "phone": " +351 21 9579310",
+    "address": "cotovias 365/ Rua Quinta das Cotovias, 2 Edificio MAN Truck & Bus Portugal, 2º andar, 2615-365 Alverca do Ribatejo, Portugal"
+  },
+  {
+    "name": "MAN Truck & Bus Service A.C. Man",
+    "country": "portugal",
+    "state": "leiria",
+    "location": "39.463475, -8.944572",
+    "products": "viesacamion",
+    "email": "geral@acman.pt.",
+    "phone": " +351 26 2915190",
+    "address": "Estrada Nacional Nº 1 Km 88, 2460-796 Turquel, Portugal"
+  },
+  {
+    "name": "J.C.& PARRACHO RENT A CAR, LDA ",
+    "country": "portugal",
+    "state": "lisboa",
+    "location": "38.823467, -9.35305",
+    "products": "viesaautocaravana",
+    "email": "loja@parracho.pt",
+    "phone": " +351 21 9618678",
+    "address": "Estrada Granja Do Marques 99"
+  },
+  {
+    "name": "CAMPILUSA, LDA.",
+    "country": "portugal",
+    "state": "fornos",
+    "location": "40.269048, -8.443087",
+    "products": "viesaautocaravana",
+    "email": "joaopaulo@campilusa.pt",
+    "phone": " +351 23 9913539",
+    "address": "CL/Rua Da Barraca,26"
+  },
+  {
+    "name": "Cars y Caravans Gasteiz",
+    "country": "españa",
+    "state": "alava",
+    "location": "42.816467, -2.787144",
+    "products": "viesaautocaravana",
+    "email": "vitoria110@autocaravanasnorte.com",
+    "phone": "945 157077",
+    "address": "P.I. Subillabide C/ Tratado de París, 01230 Gasteiz"
+  },
+  {
+    "name": "Yakart Autocaravanas alicante",
+    "country": "españa",
+    "state": "alicante",
+    "location": "38.404794, -0.546128",
+    "products": "viesaautocaravana",
+    "email": "alicante@yakarautocaravanas.com",
+    "phone": "96 5296447",
+    "address": "Ctra. de Agost, n 99, 03690"
+  },
+  {
+    "name": "Caravaning Integral ",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.478906, 1.948515",
+    "products": "viesaautocaravana",
+    "email": "info@caravaningintegral.com",
+    "phone": "93 7799768",
+    "address": "Cami de la casa nova s/n P.I. L'olana"
+  },
+  {
+    "name": "Furgoequip",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.625562, 2.665279",
+    "products": "viesaautocaravana",
+    "email": "info@furgoequip.com",
+    "phone": "93 7621631",
+    "address": "Carrer de la Cierva, n.27, 08397 "
+  },
+  {
+    "name": "Play Verd",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.227994, 1.703262",
+    "products": "viesaautocaravana",
+    "email": "info@playverd.net",
+    "phone": " 938 14 13 70",
+    "address": "Carr. de l'Arboç, KM 1, 08800 , "
+  },
+  {
+    "name": "gas parking garage",
+    "country": "españa",
+    "state": "caceres",
+    "location": "39.482425, -6.414496",
+    "products": "viesaautocaravana",
+    "email": "gasparkinggarage@gmail.com",
+    "phone": " 659 909 727",
+    "address": "Pol. Ind. las Capellanías, POLIG.IND, Calle Poceros, S/N, 10005 Cáceres"
+  },
+  {
+    "name": "Autos y Caravanas Carrizal ",
+    "country": "españa",
+    "state": "las-palmas",
+    "location": "27.9111, -15.409047",
+    "products": "viesaautocaravana",
+    "email": "sebassuareztrujillo@gmail.com",
+    "phone": "928962478",
+    "address": "Plaza Vuelta  Olivares 14"
+  },
+  {
+    "name": "Autocaravanas y Campers el Globo ",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.545145, 0.476051",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravanaselglobo.com",
+    "phone": "973 245850",
+    "address": " A-2, Km 447, 25181 Soses"
+  },
+  {
+    "name": "Madrid camper van ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.349797, -3.881161",
+    "products": "viesaautocaravana",
+    "email": "info@madridcamper.com",
+    "phone": "91 9203771",
+    "address": "Av. de las Nieves, 21, 28935"
+  },
+  {
+    "name": "Procaravaning Equipamiento Premium",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.269835, -3.758983",
+    "products": "viesaautocaravana",
+    "email": " info@procaravaning.es",
+    "phone": "91 6421584",
+    "address": " Parque Industrial La Cantueña nave1 28947 ES, Av. de la Industria, n°2, Fuenlabrada, Madrid"
+  },
+  {
+    "name": "Remolques Tanis ",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.652095, -4.067468",
+    "products": "viesaautocaravana",
+    "email": "tanis@remolquestanis.com",
+    "phone": "91 8547418",
+    "address": "Carretera Valle de los Caídos a Villalba, Km 1.9, 28440 "
+  },
+  {
+    "name": "Autocaravanas navarro",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.961395, -1.13716",
+    "products": "viesaautocaravana",
+    "email": "autocaravanasnavarro@autocaravanasnavarro.com",
+    "phone": "968 254554",
+    "address": "Av. de Sta. Catalina, 57, KM. 1, 30012 Murcia"
+  },
+  {
+    "name": "Caravanas Europeas Pamplona",
+    "country": "españa",
+    "state": "navarra",
+    "location": "42.729387, -1.617015",
+    "products": "viesaautocaravana",
+    "email": " caravanaseuropeas@gmail.com",
+    "phone": "948 314718",
+    "address": "Calle Río Arga, Polígono Cdad. del Transporte, 1, 31119 ,"
+  },
+  {
+    "name": "Carvisa ",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.092603, 1.099168",
+    "products": "viesaautocaravana",
+    "email": "diego@carvisa.com",
+    "phone": "977 390013",
+    "address": "Autovía A7, Km 1148,5, 43480 Vila-seca, Tarragona"
+  },
+  {
+    "name": "Autodrive Caravaning  TGNA",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.130139, 1.238324",
+    "products": "viesaautocaravana",
+    "email": "autodrivetgn@gmail.com",
+    "phone": "654 042 037 ",
+    "address": " Passeig Bonaire Cami I. 43007 T"
+  },
+  {
+    "name": "Nautica y Caravaning Orly ",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.690312, -0.869998",
+    "products": "viesaautocaravana",
+    "email": "info@orlynet.com",
+    "phone": " 976 519952",
+    "address": "Carr. de Huesca, km 3, 50015 Zaragoza"
+  },
+  {
+    "name": "Caravanas Europeas Zaragoza",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.645918, -1.008492",
+    "products": "viesaautocaravana",
+    "email": "aceuropeas@gmail.com",
+    "phone": " 876 008327",
+    "address": "Calle Alguero, 50197, Zaragoza"
+  },
+  {
+    "name": "Autocaravanas Tambo",
+    "country": "españa",
+    "state": "castellon",
+    "location": "40.412877, 0.400958",
+    "products": "viesaautocaravana",
+    "email": "info@tambomotorhomes.com",
+    "phone": "647 74 20 53",
+    "address": "Ctra. Valencia-Barna, 11, Castellón N340 km 1042.2 Polígono Industrial el Palmar, nave 11, 12580 Benicarló, Castellón"
+  },
+  {
+    "name": " Electro Camper Girona",
+    "country": "españa",
+    "state": "girona",
+    "location": "41.968631, 2.77155",
+    "products": "viesaautocaravana",
+    "email": "info@electrocampergirona.com",
+    "phone": "972 789113",
+    "address": " Carrer Ermessenda de Carcassona, 4, 17162 Bescanó, Girona"
+  },
+  {
+    "name": "Autocaravan Express",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.589335, -3.582203",
+    "products": "viesaautocaravana",
+    "email": "",
+    "phone": "",
+    "address": "Autovía A-1, Carr. de Madrid a Burgos, km 24, 28700"
+  },
+  {
+    "name": "Campernet",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.554327, 2.000148",
+    "products": "viesaautocaravana",
+    "email": "contactocampernet@gmail.com",
+    "phone": "93 5870805",
+    "address": "barcelona terrasa Ctra. de Martorell, 252, 08224"
+  },
+  {
+    "name": "Autocaravanas Norte Lleida",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.65580808300091, 0.6937365041896628",
+    "products": "viesaautocaravana",
+    "email": "lleida106@autocaravanasnorte.com",
+    "phone": "973 197133",
+    "address": "Carrer Pallars Sobirà, 3, 25660 Alcoletge"
+  },
+  {
+    "name": "Beriz Autocaravanas",
+    "country": "españa",
+    "state": "navarra",
+    "location": "42.845338, -1.686858",
+    "products": "viesaautocaravana",
+    "email": "info@bertizautocaravanas.com",
+    "phone": "649 50 80 86",
+    "address": "Poligono Bideberri, Calle Fuente Vieja, 1A, 31195"
+  },
+  {
+    "name": "Nervan Alquiler de Autocaravanas",
+    "country": "españa",
+    "state": "navarra",
+    "location": "42.872220, -2.211100",
+    "products": "viesaautocaravana",
+    "email": "info@nerevan.com",
+    "phone": "948467526",
+    "address": "Mendebaldeko Industri Eremua, 34, 31809"
+  },
+  {
+    "name": "Joy Caravaning",
+    "country": "españa",
+    "state": "navarra",
+    "location": "42.510124, -2.367645",
+    "products": "viesaautocaravana",
+    "email": "pedidos@joycaravaning.com",
+    "phone": "948481490",
+    "address": "Calle Lejardi y Gutiérrez, 10, 31230"
+  },
+  {
+    "name": "Autocaravanas Van Fun SCG",
+    "country": "españa",
+    "state": "pontevedra",
+    "location": "42.243828, -8.596090",
+    "products": "viesaautocaravana",
+    "email": "info@vanandfun.es",
+    "phone": "666 443 566",
+    "address": "CL/Camiño Aserradoiro, 1, 36816"
+  },
+  {
+    "name": "Cavaning Benicarlo",
+    "country": "españa",
+    "state": "castellon",
+    "location": "40.400894, 0.416848",
+    "products": "viesaautocaravana",
+    "email": "proveedores@caravaningbenicarlo.com",
+    "phone": "644185000",
+    "address": "Avenida del Papa Luna 402-12580"
+  },
+  {
+    "name": "Autocaravanas Myriam",
+    "country": "españa",
+    "state": "badajoz",
+    "location": "38.923122, -6.379067",
+    "products": "viesaautocaravana",
+    "email": "trigo4y2@hotmail.com",
+    "phone": "667457748",
+    "address": "C. Bilbao, 16, 06800"
+  },
+  {
+    "name": "Autocaravanas Aragon",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.62406777964449, -0.8464814122100828",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravanasaragon.com",
+    "phone": "685563676",
+    "address": "GASOLINERA BP, Ctra. Castellón, KM 3,7, 50013"
+  },
+  {
+    "name": "Electricidad Nazaret",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.433772, -0.403631",
+    "products": "vigiacamion",
+    "email": "Electricidadnazaretsl@gmail.com",
+    "phone": "963 973613",
+    "address": "C. Acequia Favara, 52, 46200"
+  },
+  {
+    "name": "Remasal",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.551762, -5.909380",
+    "products": "viesacamion, vigiacamion",
+    "email": "talleres.remasal@rediveco.com",
+    "phone": "963 973 613",
+    "address": "Avenida  de Gijón, 78, 33460"
+  },
+  {
+    "name": "Atec S.L.",
+    "country": "españa",
+    "state": "castellon",
+    "location": "39.972987, -0.071155",
+    "products": "viesacamion, vigiacamion",
+    "email": "atecsal@atecsal.es",
+    "phone": "618 61 72 21",
+    "address": "(Cdad. del Tte.) 5CL/Cuadra Lairom 9"
+  },
+  {
+    "name": "T. Muñoz Lopez e hijos, s.l.",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.119680, -3.125118",
+    "products": "viesacamion, vigiacamion",
+    "email": "marianomunozlopez@gmail.com",
+    "phone": "926 522383",
+    "address": "Autovia A43 Km 77"
+  },
+  {
+    "name": "Cidega Inox",
+    "country": "españa",
+    "state": "lugo",
+    "location": "43.047856, -7.572241",
+    "products": "vigiacamion",
+    "email": "comercial@cidegainox.com",
+    "phone": "982 207110",
+    "address": "C/ Rua de Industria,39 POL. IND CEAO"
+  },
+  {
+    "name": "Velar Automocion",
+    "country": "españa",
+    "state": "toledo",
+    "location": "40.109424, -3.778248",
+    "products": "vigiacamion",
+    "email": "ivan.romero@velarautomocion.com",
+    "phone": "629 518057",
+    "address": "CM4010 Crta, seseña Illescas km7, 45221"
+  },
+  {
+    "name": "Eje Occidental de Camiones",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.005991, -3.357132",
+    "products": "viesacamion",
+    "email": "rrodriguez.ejeoccidental@unione.es",
+    "phone": "690 232 003",
+    "address": "CL/Doctor Fleming,399 plo.ind. Torrehiero"
+  },
+  {
+    "name": "Import Trucks Europe",
+    "country": "españa",
+    "state": "girona",
+    "location": "41.895954, 2.785618",
+    "products": "viesacamion",
+    "email": "info@importrucks.com",
+    "phone": "972 478050",
+    "address": "Ctra. N II Km 705, 8 Bústia 210"
+  },
+  {
+    "name": "CSG Electrotecnia s.l.",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.419651, -5.807847",
+    "products": "viesacamion, vigiacamion",
+    "email": "guillermo@csge.es",
+    "phone": "985 264936",
+    "address": "c/ Peña Careses CR- 38 P.I."
+  },
+  {
+    "name": "Manuel Lopez de los Mozos s.g.",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.006070, -3.379470",
+    "products": "viesacamion",
+    "email": "manuelcantaliso@gmail.com",
+    "phone": "926 614471",
+    "address": "C/ Goya 32"
+  },
+  {
+    "name": "T. Garrido de Motilla s.a.",
+    "country": "españa",
+    "state": "cuenca",
+    "location": "39.563357, -1.927943",
+    "products": "viesacamion, vigiacamion",
+    "email": "juliogascon@talleresgarrido.com",
+    "phone": "969 331812",
+    "address": "Ctra. Madrid, 53, 16200"
+  },
+  {
+    "name": "T. Autorapid s.l.",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.554163, 0.496611",
+    "products": "vigiacamion",
+    "email": "recambios@talleresautorapid.com",
+    "phone": "973 795275",
+    "address": "Pol. Ind. Polinasa Parc. 10-11-12, 25180"
+  },
+  {
+    "name": "Aliauto s.a.",
+    "country": "españa",
+    "state": "granada",
+    "location": "37.228981, -3.647440",
+    "products": "viesacamion",
+    "email": "amador@aliauto.com",
+    "phone": "958 430641",
+    "address": "C/ Almuñecar Nave 339  Pol. Ind. Juncari"
+  },
+  {
+    "name": "Inoxtank s.l.",
+    "country": "españa",
+    "state": "ciudad-real",
+    "location": "39.180482, -3.008319",
+    "products": "vigiacamion",
+    "email": "comercial@inoxtank.com",
+    "phone": "926 512 342",
+    "address": "Pol. Ind. El bombo C/ constructores 10 13700"
+  },
+  {
+    "name": "T. Sanfer s.a.",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.957622, -4.926685",
+    "products": "viesacamion, vigiacamion",
+    "email": "sanfer.recambios@sanferconcesionarios.com",
+    "phone": "925 800484",
+    "address": "C/ Dr. Fleming 414"
+  },
+  {
+    "name": "Electricidad Ordelec s.l.",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.994577, -3.764161",
+    "products": "viesacamion",
+    "email": "ordelec@hotmail.com",
+    "phone": "925 555229",
+    "address": "C/ colombia 7"
+  },
+  {
+    "name": "T. Vicente Alvarez s.l.",
+    "country": "españa",
+    "state": "palencia",
+    "location": "41.941765, -4.502453",
+    "products": "viesacamion, vigiacamion",
+    "email": "recambios.palencia@talleresalvarezvolvo.com",
+    "phone": "979 723934",
+    "address": "Ctra. Nac. 611 km. 1,200"
+  },
+  {
+    "name": "Comercial Boiz, S.A.",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.396936, -3.590173",
+    "products": "vigiacamion",
+    "email": "madrid@boiz.es",
+    "phone": "917 763200",
+    "address": "C/ sondeos 3 28052 madrid Pol. Ind. Vicalvaro"
+  },
+  {
+    "name": "T. Vicente Alvarez s.l.",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.627026, -1.011459",
+    "products": "viesacamion, vigiacamion",
+    "email": "administracion@grupo-carratala.com",
+    "phone": "968 160011",
+    "address": "Autovia murcia cartajena salida 176 paraje el casis 30594"
+  },
+  {
+    "name": "T. Celmar s.l.",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.447270, -6.047526",
+    "products": "viesacamion, vigiacamion",
+    "email": "ana.perez@tallerescelmar.es",
+    "phone": "987 616205",
+    "address": "Ctra Madrid-Coruña Km. 323"
+  },
+  {
+    "name": "T. Comercial La Piedad c.b.",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.994292, -4.272627",
+    "products": "viesacamion, vigiacamion",
+    "email": "lapiedadtorrijos@hotmail.com",
+    "phone": "925 760652",
+    "address": "P.I. Valdolí Parcela 27"
+  },
+  {
+    "name": "Dyscasa",
+    "country": "españa",
+    "state": "toledo",
+    "location": "39.956789, -4.928115",
+    "products": "viesacamion, vigiacamion",
+    "email": "ftorres@dyscasa.com",
+    "phone": "925 806285",
+    "address": "P.I. Torrehierro Parcela 402"
+  },
+  {
+    "name": "Talleres MS Bianco Mecanica General S.L",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.169548, -3.666146",
+    "products": "viesaautocaravana",
+    "email": "talleresms01@gmail.com",
+    "phone": "658 52 40 70",
+    "address": "Calle Narciso Monturiol, 16, 28341"
+  },
+  {
+    "name": "Turycamper",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.544728, -5.576692",
+    "products": "viesaautocaravana",
+    "email": "turycamper@gmail.com",
+    "phone": "987 02 50 77",
+    "address": "Calle Tres Parcela G-22 - 1 - (Pol. Ind. de Onzonilla - Fase 1, 24231"
+  },
+  {
+    "name": "Caravanes Altafulla",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.141662, 1.367432",
+    "products": "viesaautocaravana",
+    "email": "prove@caravanesaltafulla.com",
+    "phone": "977 65 00 29",
+    "address": "Carrer Ronda d ´Altafulla , 68c, 43893"
+  },
+  {
+    "name": "Leioaberri caravaning",
+    "country": "españa",
+    "state": "bizkaia",
+    "location": "43.302620, -2.946603",
+    "products": "viesaautocaravana",
+    "email": "tallerkaravaning@leioaverri.com",
+    "phone": "686 80 03 10",
+    "address": "Avanzada Errepidea, 8A, 48950"
+  },
+  {
+    "name": "Talleres Milton Norte S.L",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.322959, -8.474847",
+    "products": "viesaautocaravana",
+    "email": "info@talleresmilton.com",
+    "phone": "981 60 24 24",
+    "address": "Av. Alcalde Manuel Platas Varela, 187, 15142"
+  },
+  {
+    "name": "Saipa Motor S.L",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.472701, -0.502205",
+    "products": "viesacamion",
+    "email": "mostrador.taller@sapipa.com",
+    "phone": "961 92 01 00",
+    "address": "avenida comarques del país valencia, 100, 46930"
+  },
+  {
+    "name": "Tec-Vir Servicio Oficial Volvo Trucks",
+    "country": "españa",
+    "state": "burgos",
+    "location": "41.692658, -3.685172",
+    "products": "viesacamion",
+    "email": "tecvir@tecvir.es",
+    "phone": "947 51 12 15",
+    "address": "Avenida Costajan, 13, 09400"
+  },
+  {
+    "name": "Carratala e hijo s.l.",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.627026, -1.011459",
+    "products": "viesacamion, vigiacamion",
+    "email": "ftorres@dyscasa.com",
+    "phone": "968 160011",
+    "address": "autovia murcia cartajena  salida 176 pareaje el casis 30594"
+  },
+  {
+    "name": "Lliriabenz",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.633664, -0.611531",
+    "products": "viesacamion, vigiacamion",
+    "email": "ftorres@dyscasa.com",
+    "phone": "96 2798344",
+    "address": "Ctra. Valencia- Ademuz Km 26,200"
+  },
+  {
+    "name": "Tamscar-Aurdio",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.539464, -3.648971",
+    "products": "viesaautocaravana",
+    "email": "info@tamscar-audio.es",
+    "phone": "91 663 84 70",
+    "address": "Av. De Valdelaparra 35 C – 28108"
+  },
+  {
+    "name": "Gam Motorhome Service Caravaning S.L.U",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.315471, 2.069021",
+    "products": "viesaautocaravana",
+    "email": "info@gamcaravaning.com",
+    "phone": "936790648",
+    "address": "Autovia de Castelldefels, km.191, 5, 08820"
+  },
+  {
+    "name": "Autocaravanas Cervello S.L",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.39085873785966, 1.91831150964503",
+    "products": "viesaautocaravana",
+    "email": "tallereautocaravanascervello@gmail.com",
+    "phone": "615051883",
+    "address": "Barri Casetes Muntané, s/n, 08759"
+  },
+  {
+    "name": "Camperízate",
+    "country": "españa",
+    "state": "leon",
+    "location": "42.551724, -5.583661",
+    "products": "viesaautocaravana",
+    "email": "info.camperizate@gmail.com",
+    "phone": "629724095",
+    "address": "Calle 10  Nº38 Polígono de Onzonilla. 24009"
+  },
+  {
+    "name": "Caravanas Murcia S.L",
+    "country": "españa",
+    "state": "murcia",
+    "location": "38.031018, -1.235943",
+    "products": "viesaautocaravana",
+    "email": "administracion@caravanasmurcia.com",
+    "phone": "968623434",
+    "address": "CR N 344 KM 7 las torres de cotillas 30565"
+  },
+  {
+    "name": "Autocaravanas Penedes",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.233088, 1.530889",
+    "products": "viesaautocaravana",
+    "email": "adm@autocaravanaspenedes.com",
+    "phone": "634 580 020",
+    "address": "Serrallers 29, El Vendrell 43700"
+  },
+  {
+    "name": "Autocaravanes Segarra",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.670429, 1.253748",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravanasegarra.com",
+    "phone": "660 619 722",
+    "address": "Avinguda de Tàrrega, 53, 25200 Cervera"
+  },
+  {
+    "name": "Autocaravanas Naranco Sl",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.371406, -5.850334",
+    "products": "viesaautocaravana",
+    "email": "autocaravanasnaranco@gmail.com",
+    "phone": "655 859 294",
+    "address": "C. de Almacenes Industriales, nº42, 33012 Oviedo"
+  },
+  {
+    "name": "Camper Attitude S.C.P",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.580700, 2.273080",
+    "products": "viesaautocaravana",
+    "email": "camper.contacto@gmail.com",
+    "phone": "611443236",
+    "address": "Av. de Sant Juliá 206 , nave 10 ,08400"
+  },
+  {
+    "name": "Camper Travel",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.235455, 1.546144",
+    "products": "viesaautocaravana",
+    "email": "info@campertravel.es",
+    "phone": "645439887",
+    "address": "Pol molí d`en Serra nave 12, 43710,santa oliva"
+  },
+  {
+    "name": "Caravaning Pirineos",
+    "country": "españa",
+    "state": "huesca",
+    "location": "42.521368, -0.359051",
+    "products": "viesaautocaravana",
+    "email": "info@caravaningpirineos.com",
+    "phone": "611 121 266",
+    "address": "Plaza de Azpe, 4 Sabiñanigo 22600"
+  },
+  {
+    "name": "Ikai Vans Sl",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.20912, -2.0377627",
+    "products": "viesaautocaravana",
+    "email": "info@ikaivans.com",
+    "phone": "9430980132",
+    "address": "Pol Balastrain-Matxinea 4, pabellón 9, 20140 Andoain"
+  },
+  {
+    "name": "Pampa Vans",
+    "country": "españa",
+    "state": "alicante",
+    "location": "38.351768, -0.546560",
+    "products": "viesaautocaravana",
+    "email": "administracion@pampavans.es",
+    "phone": "966671735",
+    "address": "Cl/Meteorito Esquina Aurora Boreal"
+  },
+  {
+    "name": "Fernando Agón S.L.",
+    "country": "españa",
+    "state": "huesca",
+    "location": "41.838396, 0.301924",
+    "products": "viesacamion",
+    "email": "fernandoagon@fernandoagon.com",
+    "phone": "974 428358",
+    "address": "Carretera N-240, Km. 131, 22500 Binéfar"
+  },
+  {
+    "name": "Scaitt S.A.",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.465771, 1.947642",
+    "products": "viesacamion",
+    "email": "rcastillo@scaitt.com",
+    "phone": "937 737100",
+    "address": "Avinguda del Congost, 9, 08760 Martorell"
+  },
+  {
+    "name": "Takumisan Sl",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.363538, -0.418437",
+    "products": "viesacamion",
+    "email": "administracion@takumisan.com",
+    "phone": "961115356",
+    "address": "Av. de Picassent, 19, 46460 Silla"
+  },
+  {
+    "name": "Polarcube",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.557951, -0.335367",
+    "products": "viesacamion",
+    "email": "info@polarcube.es",
+    "phone": "960069022",
+    "address": "Polígono Industrial Torrubero, 2, Av. Constitució, 11, 46136 Museros"
+  },
+  {
+    "name": "Electronica Girona 2012 Sl",
+    "country": "españa",
+    "state": "girona",
+    "location": "42.023089, 2.825781",
+    "products": "viesacamion",
+    "email": "jordi.arbusa@electronicagirona.com",
+    "phone": "972241594",
+    "address": "Avinguda de França, 25, 17481 Sant Julià de Ramis"
+  },
+  {
+    "name": "Seim Iberica S.L",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.556676, -0.336629",
+    "products": "viesacamion",
+    "email": "jpascual@seimiberica.es",
+    "phone": "681068981",
+    "address": "Avinguda Lluís Santàngel, 9, 46136"
+  },
+  {
+    "name": "Sanmarti Serveis Automocion S.L",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.756781, 1.859749",
+    "products": "viesacamion",
+    "email": "recanvis@sanmartiserveis.com",
+    "phone": "938 73 46 99",
+    "address": "Ctra. de Santpedor, 120 - 122, 08243 Manresa"
+  },
+  {
+    "name": "Rent Camper Canarias Tenerife",
+    "country": "españa",
+    "state": "santa-cruz-de-tenerife",
+    "location": "28.340541697701024, -16.368857468668455",
+    "products": "viesaautocaravana",
+    "email": "alquilercampers@gmail.com",
+    "phone": "674 340 893",
+    "address": "Polígono Industrial de Güimar 7, 22, 38509, Santa Cruz de Tenerife"
+  },
+  {
+    "name": "Rent Camper Fuerteventura",
+    "country": "españa",
+    "state": "las-palmas",
+    "location": "28.458763, -13.874909",
+    "products": "viesaautocaravana",
+    "email": "ftvrent@gmail.com",
+    "phone": "695 165 550",
+    "address": "Calle 6 35610, Llanos de la Mareta, Las Palmas"
+  },
+  {
+    "name": "Nomadas Life Cantabria",
+    "country": "españa",
+    "state": "cantabria",
+    "location": "43.39395898918342, -3.848537208118557",
+    "products": "viesaautocaravana",
+    "email": "info.cantabria@nomadaslife.es",
+    "phone": "942 301880",
+    "address": "Pol. Ind., 102, 39611"
+  },
+  {
+    "name": "Jtc Autocaravanas",
+    "country": "españa",
+    "state": "lugo",
+    "location": "43.039836, -7.551670",
+    "products": "viesaautocaravana",
+    "email": "josetorneirocuesta@gmail.com",
+    "phone": "670 646 542",
+    "address": "Cl/Rua Antonio Eleizegui Lopez,10, Vial 10"
+  },
+  {
+    "name": "AUTOCARAVANAS LL",
+    "country": "españa",
+    "state": "cordoba",
+    "location": "37.899984, -4.715781",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravanasll.es",
+    "phone": "600 65 76 88",
+    "address": "C. Imprenta de la Alborada, Parcela 122, Local D,E y F, 14014"
+  },
+  {
+    "name": "Ren camper Baleares",
+    "country": "españa",
+    "state": "islas-baleares",
+    "location": "39.594888, 2.667424",
+    "products": "viesaautocaravana",
+    "email": "rencamperbaleares.2020@gmail.com",
+    "phone": "606 012 517",
+    "address": "CL/SETZE DE JULIOL, 6"
+  },
+  {
+    "name": "Autocaravanas Europeas Mallorca",
+    "country": "españa",
+    "state": "islas-baleares",
+    "location": "39.539246, 2.736277",
+    "products": "viesaautocaravana",
+    "email": "rentcamperbaleares.2020@gmail.com",
+    "phone": "968368488",
+    "address": "Carrer del Camp Franc 29   07199"
+  },
+  {
+    "name": "Talleres Bi-Bat, S. L. U.",
+    "country": "españa",
+    "state": "alava",
+    "location": "42.807003, -2.805739",
+    "products": "viesaautocaravana",
+    "email": "blanca.fernandez@bi-bat.com",
+    "phone": "94 5371101",
+    "address": "Pol. Ind. Los Llanos, C/ A Nº 4 Bajo, 01230"
+  },
+  {
+    "name": "Freevans S.L.",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.325845325235086, 1.6171073939983045",
+    "products": "viesaautocaravana",
+    "email": "admin@autorutacamper.com",
+    "phone": "640336793",
+    "address": "Avda. Penedès Núm. 5 - 08732 La Múnia"
+  },
+  {
+    "name": "Camper Park Empordà",
+    "country": "españa",
+    "state": "girona",
+    "location": "42.232498635255695, 2.9614287927329843",
+    "products": "viesaautocaravana",
+    "email": "info@camperparkemporda.com",
+    "phone": "972 500449",
+    "address": "Avinguda d'Àlguema, 2"
+  },
+  {
+    "name": "Autocaravanas Irun",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.332694, -1.807644",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravanasirun.es",
+    "phone": "943 103103",
+    "address": "Auzolan 10 P.I. Alto De Arretxe"
+  },
+  {
+    "name": "Grupo ACDM S.L.",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.273371, -8.411377",
+    "products": "viesaautocaravana",
+    "email": "acdm@grupoacdm.com",
+    "phone": "981 6335466",
+    "address": "C/Leonardo Da vinci, Manzana 4, Parcela 35 Pol.Ind. Ledoño"
+  },
+  {
+    "name": "Caravanas Antequera",
+    "country": "españa",
+    "state": "malaga",
+    "location": "37.024161, -4.570864",
+    "products": "viesaautocaravana",
+    "email": "antequera@autocaravanastorcal.com",
+    "phone": "604 423 024",
+    "address": "Callejón Vidal 15"
+  },
+  {
+    "name": "Atalaya Remolques, S.L.",
+    "country": "españa",
+    "state": "murcia",
+    "location": "37.706425, -1.610329",
+    "products": "viesaautocaravana",
+    "email": "maleny@atalayaremolques.com",
+    "phone": "96 8486734",
+    "address": "Pol. Ind. La Hoya C/Embalse De Valdeinfierno,Nave 12 Buzon 113"
+  },
+  {
+    "name": "Nursa Caravaning S.L.",
+    "country": "españa",
+    "state": "valladolid",
+    "location": "41.528228, -4.849343",
+    "products": "viesaautocaravana",
+    "email": "info@nusacaravaning.com",
+    "phone": "983555881",
+    "address": "Urbanización Tinajas"
+  },
+  {
+    "name": "Autocaravanas LL",
+    "country": "españa",
+    "state": "cordoba",
+    "location": "37.900001, -4.715761",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravanasll.es",
+    "phone": "600 657 688",
+    "address": "Carrer de pi nave 3 ampuria brava 17487"
+  },
+  {
+    "name": "Autoclima Las Palmas S L",
+    "country": "españa",
+    "state": "las-palmas",
+    "location": "28.119532, -15.456321",
+    "products": "viesaautocaravana",
+    "email": "autoclimalaspalmas@gmail.com",
+    "phone": "808 055 594",
+    "address": "Urb. Díaz Casanova B, 14"
+  },
+  {
+    "name": "Nautica y Caravaning Orly S.A.",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.690041, -0.869795",
+    "products": "viesaautocaravana",
+    "email": "b.marquina@orlycaravan.com",
+    "phone": "976 519952",
+    "address": "Carr. de Huesca, km 3"
+  },
+  {
+    "name": "Serralharia Esteves da Costa lda",
+    "country": "portugal",
+    "state": "cristelo",
+    "location": "41.479057, -8.701460",
+    "products": "viesaautocaravana",
+    "email": "geralsiga.ja@gmail.com",
+    "phone": "351 968368488",
+    "address": "Rua São Salvador n.º 177, 4755-170"
+  },
+  {
+    "name": "Talleres Torneiro",
+    "country": "españa",
+    "state": "lugo",
+    "location": "43.044809, -7.563242",
+    "products": "viesaautocaravana",
+    "email": "josetorneirocuesta@gmail.com",
+    "phone": "670 646542",
+    "address": "Polígono Industrial O Ceao, Rúa da Industria, 101"
+  },
+  {
+    "name": "Autocaravanas Tarragona",
+    "country": "españa",
+    "state": "tarragona",
+    "location": "41.184614, 1.247331",
+    "products": "viesaautocaravana",
+    "email": "Info@autocaravanastarragona.com",
+    "phone": "644 87 70 66",
+    "address": "Carrer de l'Alzinar, nave 18, 43152"
+  },
+  {
+    "name": "Lafurgo.net",
+    "country": "españa",
+    "state": "girona",
+    "location": "41.932566, 2.797438",
+    "products": "viesaautocaravana",
+    "email": "info@lafurgo.net",
+    "phone": "972 66 35 22",
+    "address": "Carrer del Sud 7, 17458"
+  },
+  {
+    "name": "Autoruta camper",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.325276, 1.617429",
+    "products": "viesaautocaravana",
+    "email": "admin@autorutacamper.com",
+    "phone": "640 336793",
+    "address": "Avda. Penedès Núm. 5 - 08732"
+  },
+  {
+    "name": "Lidervan",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.2615725, -3.8369815",
+    "products": "viesaautocaravana",
+    "email": "Grupolidervan@gmail.com",
+    "phone": "664 295554",
+    "address": "C. Violeta, 38, 28970 Humanes de Madrid"
+  },
+  {
+    "name": "TRANSLAFER S.L",
+    "country": "españa",
+    "state": "almeria",
+    "location": "37.252470, -1.909919",
+    "products": "viesacamion, vigiacamion",
+    "email": "recambiostranslafer@outlook.com",
+    "phone": "648 624 146",
+    "address": "Pol.Ind.Aljoroque.Fase1, C. la Pernera, N42, 04628 Antas,"
+  },
+  {
+    "name": "La paloma viajera",
+    "country": "españa",
+    "state": "cordoba",
+    "location": "37.437268, -4.101299",
+    "products": "viesaautocaravana",
+    "email": "lapalomaviajera2.0@gmail.com",
+    "phone": "635 40 49 35",
+    "address": "C. Polígono Industrial los Bermejales nº31 14812"
+  },
+  {
+    "name": "Vanbox Camper",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.598381, -0.550134",
+    "products": "viesaautocaravana",
+    "email": "instalaciones@vanboxcamper.com",
+    "phone": "656 83 60 77",
+    "address": "Cam. Cañada Maquiva Ind, 10, 46185"
+  },
+  {
+    "name": "Tecnocamper",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.612601, 0.675541",
+    "products": "viesaautocaravana",
+    "email": "tecnocamperlleida@gmail.com",
+    "phone": "633 94 66 97",
+    "address": "poligono indusrial  Cami  dels Frares. Carrer 1 Nau 3"
+  },
+  {
+    "name": "Pplucaravan",
+    "country": "españa",
+    "state": "zaragoza",
+    "location": "41.601488, -0.934760",
+    "products": "viesaautocaravana",
+    "email": "jl.nasarre@pplucaravan.com",
+    "phone": "876 77 66 81",
+    "address": "Polígono Río Huerva 50410"
+  },
+  {
+    "name": "CAMPERSUR",
+    "country": "españa",
+    "state": "sevilla",
+    "location": "37.417709, -6.033156",
+    "products": "viesaautocaravana",
+    "email": "",
+    "phone": "634 09 81 72",
+    "address": "C. Transhumancia, 14, 41900"
+  },
+  {
+    "name": "Alhcamper",
+    "country": "españa",
+    "state": "malaga",
+    "location": "36.675205, -4.544366",
+    "products": "viesaautocaravana",
+    "email": "",
+    "phone": "633 25 33 93",
+    "address": "Polígono Industrial, C. Doña Ana, 15, 29130"
+  },
+  {
+    "name": "Magic Caravaning",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.730734, 0.741139",
+    "products": "viesaautocaravana",
+    "email": "magic@magicaravaning.com",
+    "phone": "645 90 80 90",
+    "address": "CL/BONS AIRES,20 25139"
+  },
+  {
+    "name": "Talleres Fercaba",
+    "country": "españa",
+    "state": "valladolid",
+    "location": "41.691774, -4.680487",
+    "products": "viesacamion, vigiacamion",
+    "email": "talleres@fercaba.es",
+    "phone": "689 23 37 71",
+    "address": "C. Esparragal 1"
+  },
+  {
+    "name": "Autocamper Center",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.175658, -3.662447",
+    "products": "viesaautocaravana",
+    "email": "fyuste2012@gmail.com",
+    "phone": "696 15 97 71",
+    "address": "Poligono, Las Canteras, C. la Amarguilla 41N ave 96"
+  },
+  {
+    "name": "Kamperbide",
+    "country": "españa",
+    "state": "navarra",
+    "location": "43.080306, -1.919853",
+    "products": "viesaautocaravana",
+    "email": "info@kamperbide.com",
+    "phone": "669 70 79 16",
+    "address": "Polígono P II - Landa, 8b4, 31880"
+  },
+  {
+    "name": "Autovana Motor",
+    "country": "españa",
+    "state": "la-coruña",
+    "location": "43.446286, -8.170851",
+    "products": "viesaautocaravana",
+    "email": "info@autovanamotor.com",
+    "phone": "604 01 81 86",
+    "address": "Polígono Vilar do Colo, Rua Xestal, 22, 15612"
+  },
+  {
+    "name": "Tallers de L´automovil Speed Car",
+    "country": "españa",
+    "state": "lerida",
+    "location": "41.629734, 0.886591",
+    "products": "viesaautocaravana",
+    "email": "autoventa@speed-car.es",
+    "phone": "973 71 18 61",
+    "address": "Avinguda de Jaume I 13,2523"
+  },
+  {
+    "name": "Camper top service",
+    "country": "españa",
+    "state": "bizkaia",
+    "location": "43.249671, -2.888999",
+    "products": "viesaautocaravana",
+    "email": "info@campertoprent.com",
+    "phone": "946 53 85 59",
+    "address": "Nacional 634 - Km 106, 300 Edificio SAGA   Sotano 1 Local 2A 48450"
+  },
+  {
+    "name": "Tomi camper",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.273839, -5.827042",
+    "products": "viesaautocaravana",
+    "email": "info@tommycamper.com",
+    "phone": "629 15 95 31",
+    "address": "Poligono industrial Baiña Calle Barquera    nave 6  33682"
+  },
+  {
+    "name": "Autocaravanas Luxury S.L",
+    "country": "españa",
+    "state": "malaga",
+    "location": "36.719408, -4.533160",
+    "products": "viesaautocaravana",
+    "email": "info@autocaravanasluxury.es",
+    "phone": "672 55 27 27",
+    "address": "Av. José Ortega y Gasset, km 9, 29590"
+  },
+  {
+    "name": "Ballestas Mallorca S.L",
+    "country": "españa",
+    "state": "islas-baleares",
+    "location": "39.679697, 2.834966",
+    "products": "viesacamion",
+    "email": "ballestasmallorca@hotmail.com",
+    "phone": "971 88 66 27",
+    "address": "Carrer Pou d'en Bauçà, 6 07350"
+  },
+  {
+    "name": "PEGASO CARAVANAS S.L",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.471230, -0.642456",
+    "products": "viesaautocaravana",
+    "email": "ballestasmallorca@hotmail.com",
+    "phone": "658 26 57 15",
+    "address": "Calle a de la Av. 2   46370"
+  },
+  {
+    "name": "GumerCamper",
+    "country": "españa",
+    "state": "sevilla",
+    "location": "37.269908, -5.923166",
+    "products": "viesaautocaravana",
+    "email": "taller@gummercamper.es",
+    "phone": "955 93 76 28",
+    "address": "C. Siroco, 23, 41702"
+  },
+  {
+    "name": "CDS Caravaning",
+    "country": "españa",
+    "state": "malaga",
+    "location": "36.425969, -5.171256",
+    "products": "viesaautocaravana",
+    "email": "info@cdscaracaning.com",
+    "phone": "646 421200",
+    "address": "Marie Curie 9"
+  },
+  {
+    "name": "Past Racing",
+    "country": "españa",
+    "state": "asturias",
+    "location": "43.272389, -5.827519",
+    "products": "viesaautocaravana",
+    "email": "aucalga@aucalga.com",
+    "phone": "623 53 08 27",
+    "address": "Polígono de Baiña, Calle el Pedreru, N° 8, 33600"
+  },
+  {
+    "name": "Rammar Garage S.L",
+    "country": "españa",
+    "state": "madrid",
+    "location": "40.505420, -3.549346",
+    "products": "viesaautocaravana",
+    "email": "rammartaller@gmail.com",
+    "phone": "624 210 169",
+    "address": "C. Juan Ramón Jiménez, 7, 28860"
+  },
+  {
+    "name": "Neila Camper",
+    "country": "españa",
+    "state": "la-rioja",
+    "location": "42.462121, -2.472774",
+    "products": "viesaautocaravana",
+    "email": "neilacamper@gmail.com",
+    "phone": "621 044 606",
+    "address": "C/ Rosa Chacel, 46, 26007"
+  },
+  {
+    "name": "Autocamper Joan Oliver Gomez",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.950067, 2.273046",
+    "products": "viesaautocaravana",
+    "email": "autocampe@gmail.com",
+    "phone": "647 84 73 37",
+    "address": "Carrer de Lleida, 35, c, 08500 Vic"
+  },
+  {
+    "name": "Isidoro San Justo Fernández ",
+    "country": "españa",
+    "state": "cantabria",
+    "location": "43.319881, -4.069558",
+    "products": "viesaautocaravana, viesacamion",
+    "email": "info@isidorosanjusto.com",
+    "phone": "942 81 92 45",
+    "address": "Pol. Ind. Mies de Molladar, D-8, 39311 Cartes"
+  },
+  {
+    "name": "Camper and Van",
+    "country": "españa",
+    "state": "cadiz",
+    "location": "36.691510, -6.159812",
+    "products": "viesaautocaravana",
+    "email": "camperandvan@gmail.com",
+    "phone": "605 401 111",
+    "address": "Avda Aurora Boreal J2 (Centro Comercial Luz Shopping) 11408"
+  },
+  {
+    "name": "Singular camper",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.535783, 1.900411",
+    "products": "viesaautocaravana",
+    "email": "info@singularcampers.com",
+    "phone": "670 824 490",
+    "address": "Polígono, pl industrial vilapou 3, nave 10, 08630"
+  },
+  {
+    "name": "Autocaravanas mora",
+    "country": "españa",
+    "state": "barcelona",
+    "location": "41.6037040, 2.2769980",
+    "products": "viesaautocaravana",
+    "email": "tallerautocaravanasmora@gmail.com",
+    "phone": "932 473 997",
+    "address": "Carrer Jordi Camp 81 – 85 08403 –"
+  },
+  {
+    "name": "Caravaning Huelva",
+    "country": "españa",
+    "state": "huelva",
+    "location": "37.258945, -7.015977",
+    "products": "viesaautocaravana",
+    "email": "caravaninghuelva@gmail.com",
+    "phone": "666 936 578",
+    "address": "C. Fomento, 52, 21110"
+  },
+  {
+    "name": "SERVICIOS INDUSTRIALES RULLETA",
+    "country": "españa",
+    "state": "valencia",
+    "location": "39.472371, -0.497103",
+    "products": "viesacamion",
+    "email": "Ladmin@gamil.com",
+    "phone": "963 213 311",
+    "address": "vinguda comarques del pais valencià 82 46930"
+  },
+  {
+    "name": "TNT Camper",
+    "country": "españa",
+    "state": "huelva",
+    "location": "37.259013499959494, -7.016317848889157",
+    "products": "viesaautocaravana",
+    "email": "tntcamper20219@gmail.com",
+    "phone": "623 129 270",
+    "address": "Industria 53"
+  },
+  {
+    "name": "Caravanas Karmela by SC",
+    "country": "españa",
+    "state": "cadiz",
+    "location": "36.207910, -5.405013",
+    "products": "viesaautocaravana",
+    "email": "caravanaskarmela@hotmail.com",
+    "phone": "956 694 041",
+    "address": "N.340 km 1108 cp 11360"
+  },
+  {
+    "name": "Autocaravanas Damau",
+    "country": "españa",
+    "state": "granada",
+    "location": "37.181119, -3.671491",
+    "products": "viesaautocaravana",
+    "email": "autocaravanasdamau@gmail.com",
+    "phone": "621 212 454",
+    "address": "Ctra Cullar Vega s/n 18102"
+  },
+  {
+    "name": "Luma Camper",
+    "country": "españa",
+    "state": "gipuzkoa",
+    "location": "43.292071, -1.884813",
+    "products": "viesaautocaravana",
+    "email": "lumakamper@gmail.com",
+    "phone": "655 928 479",
+    "address": "20180 Oiartzun"
+  }
+]

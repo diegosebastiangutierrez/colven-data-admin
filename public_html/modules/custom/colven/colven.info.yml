@@ -1,0 +1,11 @@
+name: 'Colven Module'
+type: module
+description: 'Personaliza la salida JSON de la vista.'
+core_version_requirement: ^8 || ^9 || ^10
+package: Custom
+
+dependencies:
+  - drupal:views
+
+templates:
+  - 'test-page.html.twig'
