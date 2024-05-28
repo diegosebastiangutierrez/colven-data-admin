@@ -40,7 +40,6 @@
 /public_html/.htaccess
 /public_html/.ht.router.php
 /public_html/autoload.php
-/public_html/composer.json
 /public_html/composer.lock
 /public_html/example.gitignore
 /public_html/index.php
@@ -103,4 +102,3 @@ npm-debug.log
 
 # Ignore bak files
 *.bak
->>>>>>> 482c2b3 (Agrego .gitignore)
