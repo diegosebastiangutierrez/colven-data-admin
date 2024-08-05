@@ -4,6 +4,7 @@ map_script:
     js/map_script.js: {}
   dependencies:
     - core/jquery
+    - core/jquery.once
 
 leaflet:
   version: 1.x

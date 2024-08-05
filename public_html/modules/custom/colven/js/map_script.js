@@ -29,7 +29,7 @@
         function populateSelect(selectId, options) {
           var select = $(selectId);
           select.empty();
-          select.append('<option value="">Seleccione una opción</option>');
+          select.append('<option value="">Select an option</option>');
           options.forEach(function (option) {
             select.append('<option value="' + option + '">' + option + '</option>');
           });
@@ -96,12 +96,12 @@
 
               // Crear contenido del marcador con la información del store
               var popupContent = '<strong>' + store.name + '</strong><br>' +
-                'Dirección: ' + store.address + '<br>' +
-                'Ciudad: ' + store.city + '<br>' +
-                'Provincia: ' + store.state + '<br>' +
-                'Email: ' + store.email + '<br>' +
-                'Teléfono: ' + store.phone + '<br>' +
-                '<a href="https://www.google.com/maps?q=' + store.location.lat + ',' + store.location.long + '" target="_blank">Ver en Google Maps</a>';
+                '<strong>Address: ' + store.address + '<br>' +
+                '<strong>City:</strong> ' + store.city + '<br>' +
+                '<strong>State:</strong> ' + store.state + '<br>' +
+                '<strong>Email:</strong> ' + store.email + '<br>' +
+                '<strong>Phone:</strong> ' + store.phone + '<br>' +
+                '<a href="https://www.google.com/maps?q=' + store.location.lat + ',' + store.location.long + '" target="_blank">Go to GMaps</a>';
               marker.bindPopup(popupContent);
 
               // Agregar la coordenada del marcador a bounds
@@ -119,7 +119,7 @@
           var selectedCountry = $('#country-select').val();
           var states = [...new Set(allStores.filter(store => store.country === selectedCountry).map(store => store.state))];
           populateSelect('#state-select', states);
-          $('#city-select').empty().append('<option value="">Seleccione una ciudad</option>'); // Resetear las ciudades
+          $('#city-select').empty().append('<option value="">Select a city</option>'); // Resetear las ciudades
         }
 
         function updateCityOptions() {
