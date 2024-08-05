@@ -87,3 +87,20 @@ $settings['cache']['default'] = 'cache.backend.file_system';
 $settings['filecache']['directory']['default'] = '[/var/www/colven]/filecache';
 
 Where [/var/www/colven] is the absolute filesystem route to the recently synced repo on local
+
+
+***********************************
+LOGIN WITH ADMIN USER
+***********************************
+
+Once you can mae the site work, the "admin" login can be achieved by running the "drush uli" command
+on the /var/www/colven/public_html folder, copy and paste the url given on the browser and change the 
+"http://default/" part of the url onto the designated local domain (mine is http://colven.devel").
+
+Once you do this, there is a "Main Admin" user i have created (with Editor Role) that can be used as a 
+template for adding other users that can CRUD on the site.
+
+
+
+
+
